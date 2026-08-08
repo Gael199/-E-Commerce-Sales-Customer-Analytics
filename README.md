@@ -60,7 +60,7 @@ Des filtres permettent d'affiner l'analyse par **année, pays, catégorie de pro
 
 ### 🖥️ Aperçu du dashboard
 
-![Dashboard E-Commerce Power BI](Report_B.png)
+![Dashboard E-Commerce Power BI](powebi_Report.png)
 
 ---
 
