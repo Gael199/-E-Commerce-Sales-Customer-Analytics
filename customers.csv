@@ -1,0 +1,1001 @@
+﻿customer_id,first_name,last_name,age,gender,signup_date,loyalty_tier,city,state,country,acquisition_channel,preferred_device,marketing_opt_in
+989520,Alice,Thomas,43,Homme,2024-12-10,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+686946,Camille,Petit,40,Homme,2024-03-31,Silver,Genève,Genève,Suisse,Social Media,Mobile,Yes
+112054,Gabriel,Lefebvre,34,Non précisé,2025-04-12,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,No
+596680,Yanis,Petit,54,Homme,2024-05-22,Gold,Strasbourg,Grand Est,France,Social Media,Desktop,Yes
+784827,Ethan,Petit,50,Femme,2024-01-02,Silver,Montréal,Québec,Canada,Paid Search,Desktop,No
+648698,Alice,Simon,44,Femme,2024-04-25,Bronze,Montréal,Québec,Canada,Organic Search,Desktop,Yes
+415769,Louis,Morel,24,Homme,2025-04-14,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+904949,Adam,Dubois,38,Femme,2025-05-14,Bronze,Dakar,Dakar,Sénégal,Email,Desktop,Yes
+669089,Louis,Leroy,47,Femme,2025-01-13,Bronze,Dakar,Dakar,Sénégal,Email,Mobile,Yes
+540994,Noah,Moreau,32,Femme,2025-07-03,Bronze,Paris,Île-de-France,France,Email,Desktop,Yes
+841695,Tom,Leroy,62,Femme,2024-11-23,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+342154,Ethan,Bernard,47,Homme,2024-01-27,Gold,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+199099,Olivia,Roux,56,Femme,2025-06-03,Bronze,Montréal,Québec,Canada,Paid Search,Mobile,No
+492888,Manon,Moreau,18,Femme,2025-04-08,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,No
+748246,Noah,Durand,18,Homme,2025-05-24,Bronze,Paris,Île-de-France,France,Referral,Desktop,Yes
+170985,Chloe,Lambert,39,Homme,2025-12-22,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Mobile,No
+453744,Eva,David,43,Homme,2024-03-27,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,Yes
+774464,Noah,Robert,45,Homme,2024-07-04,Silver,Lyon,Auvergne-Rhône-Alpes,France,Referral,Desktop,Yes
+367848,Alice,Garcia,28,Femme,2025-01-01,Bronze,Dakar,Dakar,Sénégal,Organic Search,Mobile,No
+701670,Hugo,Leroy,49,Femme,2024-03-08,Bronze,Montréal,Québec,Canada,Email,Desktop,No
+317282,Ethan,Simon,31,Femme,2024-04-07,Gold,Lille,Hauts-de-France,France,Social Media,Desktop,Yes
+123484,Adam,Moreau,44,Femme,2024-06-11,Silver,Paris,Île-de-France,France,Paid Search,Mobile,No
+895917,Yanis,Dubois,46,Homme,2025-05-22,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+700546,Alice,Moreau,34,Femme,2024-11-26,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+321155,Arthur,Dubois,38,Femme,2025-05-18,Bronze,Toulouse,Occitanie,France,Social Media,Tablet,Yes
+157073,Eva,Laurent,31,Femme,2024-08-09,Silver,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+710272,Sophia,Robert,31,Femme,2024-06-05,Bronze,Paris,Île-de-France,France,Direct,Mobile,No
+684041,Leo,Mercier,36,Femme,2025-11-08,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+243469,Hugo,Dubois,18,Homme,2024-10-28,Silver,Nantes,Pays de la Loire,France,Direct,Mobile,Yes
+503336,Chloe,Durand,33,Homme,2025-11-15,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+812935,Mia,Francois,26,Femme,2024-01-19,Gold,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,Yes
+131819,Lina,Andre,26,Femme,2024-01-14,Silver,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+263191,Mia,Fournier,41,Femme,2025-03-26,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,No
+504154,Lina,Michel,37,Homme,2024-08-14,Silver,Dakar,Dakar,Sénégal,Paid Search,Mobile,No
+358651,Emma,Bonnet,55,Femme,2024-11-10,Silver,Lille,Hauts-de-France,France,Paid Search,Desktop,No
+295623,Camille,Michel,28,Femme,2024-09-10,Bronze,Genève,Genève,Suisse,Organic Search,Desktop,Yes
+198559,Lucas,Andre,25,Homme,2025-01-27,Silver,Strasbourg,Grand Est,France,Direct,Mobile,Yes
+744782,Arthur,Garcia,26,Femme,2024-09-22,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+305493,Liam,Robert,36,Homme,2025-11-07,Bronze,Toulouse,Occitanie,France,Direct,Mobile,Yes
+685801,Sami,Thomas,35,Femme,2025-03-06,Bronze,Nantes,Pays de la Loire,France,Organic Search,Desktop,Yes
+329367,Tom,Mercier,25,Femme,2024-07-27,Silver,Dakar,Dakar,Sénégal,Organic Search,Mobile,Yes
+565703,Chloe,Morel,28,Homme,2024-02-20,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+293665,Gabriel,Lambert,53,Homme,2025-05-01,Silver,Genève,Genève,Suisse,Social Media,Mobile,Yes
+848223,Noah,Bertrand,38,Homme,2025-01-31,Silver,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,Yes
+503699,Sami,Martinez,33,Femme,2024-03-12,Silver,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+231776,Sarah,Martin,18,Femme,2025-12-16,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+803296,Ines,Martinez,38,Femme,2024-07-26,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+166447,Nora,Andre,49,Homme,2025-10-12,Bronze,Paris,Île-de-France,France,Social Media,Mobile,No
+917968,Louis,Francois,32,Non précisé,2025-09-25,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+324931,Arthur,Fournier,23,Femme,2024-04-15,Gold,Genève,Genève,Suisse,Direct,Mobile,Yes
+650860,Emma,Martin,42,Femme,2025-07-06,Bronze,Paris,Île-de-France,France,Social Media,Desktop,No
+807947,Adam,David,63,Femme,2024-11-23,Bronze,Montréal,Québec,Canada,Social Media,Mobile,No
+289234,Gabriel,Leroy,39,Homme,2024-01-30,Gold,Strasbourg,Grand Est,France,Paid Search,Mobile,No
+299312,Sarah,Vincent,25,Femme,2025-09-22,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Email,Mobile,No
+284211,Lina,Bertrand,39,Homme,2025-09-25,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Mobile,Yes
+241628,Sarah,Durand,18,Homme,2025-04-28,Bronze,Dakar,Dakar,Sénégal,Paid Search,Desktop,Yes
+676297,Eva,Lambert,29,Femme,2024-01-26,Gold,Genève,Genève,Suisse,Referral,Tablet,Yes
+620970,Sophia,Girard,34,Femme,2024-11-20,Silver,Toulouse,Occitanie,France,Direct,Mobile,Yes
+871468,Olivia,Bernard,55,Femme,2024-03-01,Bronze,Montréal,Québec,Canada,Direct,Tablet,Yes
+771111,Emma,Moreau,21,Femme,2024-10-14,Silver,Paris,Île-de-France,France,Referral,Mobile,Yes
+478691,Camille,Petit,42,Femme,2025-10-23,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+105502,Lea,David,30,Femme,2025-10-31,Silver,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+789592,Alice,Roux,50,Homme,2024-07-13,Silver,Montréal,Québec,Canada,Paid Search,Mobile,Yes
+807398,Ethan,Vincent,33,Homme,2025-06-20,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Mobile,No
+136522,Camille,Thomas,38,Homme,2025-03-15,Silver,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+711699,Eva,Durand,40,Homme,2024-09-12,Bronze,Genève,Genève,Suisse,Paid Search,Desktop,No
+487033,Lina,Bertrand,26,Femme,2024-08-13,Bronze,Paris,Île-de-France,France,Direct,Desktop,Yes
+100813,Lea,Martinez,35,Homme,2025-06-19,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+695508,Ines,Martin,53,Femme,2024-01-04,Gold,Strasbourg,Grand Est,France,Referral,Mobile,Yes
+807287,Alice,Francois,32,Femme,2024-05-06,Gold,Paris,Île-de-France,France,Social Media,Desktop,Yes
+101014,Gabriel,Dubois,54,Femme,2025-03-01,Bronze,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+651797,Arthur,Leroy,47,Homme,2025-05-21,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+681390,Nathan,Vincent,40,Femme,2025-09-16,Bronze,Lille,Hauts-de-France,France,Organic Search,Desktop,Yes
+203415,Jules,Leroy,29,Femme,2025-04-19,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+739713,Noah,Martinez,29,Femme,2025-05-15,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+622402,Gabriel,Vincent,38,Femme,2024-02-18,Gold,Montréal,Québec,Canada,Referral,Mobile,Yes
+503812,Jules,Lambert,45,Homme,2024-11-14,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+810526,Tom,Fournier,45,Femme,2025-10-03,Bronze,Montréal,Québec,Canada,Direct,Desktop,Yes
+477026,Tom,Laurent,25,Femme,2024-03-23,Bronze,Nantes,Pays de la Loire,France,Email,Mobile,No
+599522,Yanis,Garcia,49,Femme,2024-02-09,Silver,Paris,Île-de-France,France,Paid Search,Mobile,No
+931588,Lina,Dupont,41,Femme,2025-01-16,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+489771,Lea,Martin,29,Femme,2025-03-04,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,Yes
+303225,Nora,Bonnet,49,Femme,2024-06-11,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+638662,Liam,Francois,39,Homme,2025-08-08,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Mobile,Yes
+587217,Alice,David,40,Homme,2024-06-16,Bronze,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+676606,Sarah,Lambert,38,Homme,2025-03-12,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,No
+623469,Jules,Fournier,37,Femme,2025-07-31,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+819078,Manon,Martin,32,Homme,2025-09-20,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+146198,Adam,Garcia,31,Femme,2024-04-15,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+815509,Leo,Richard,43,Femme,2025-04-15,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,No
+322199,Adam,Michel,55,Non précisé,2025-01-29,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,Yes
+289455,Chloe,Simon,35,Homme,2024-04-16,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Desktop,Yes
+460266,Ines,Fournier,31,Homme,2025-01-16,Bronze,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+929439,Adam,Francois,39,Homme,2025-12-24,Bronze,Genève,Genève,Suisse,Direct,Tablet,No
+831444,Mia,Lefebvre,50,Femme,2024-10-24,Silver,Bordeaux,Nouvelle-Aquitaine,France,Email,Mobile,Yes
+590251,Alice,Laurent,41,Femme,2025-08-29,Bronze,Paris,Île-de-France,France,Social Media,Desktop,Yes
+249658,Ava,Francois,36,Femme,2025-01-14,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,No
+110106,Olivia,Laurent,48,Homme,2025-02-10,Bronze,Strasbourg,Grand Est,France,Direct,Desktop,No
+300334,Camille,Francois,55,Homme,2025-03-05,Bronze,Lille,Hauts-de-France,France,Paid Search,Desktop,No
+417298,Camille,Bernard,55,Femme,2025-07-12,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,No
+247992,Olivia,Francois,36,Femme,2024-04-28,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+711081,Ethan,Moreau,57,Femme,2025-04-14,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Desktop,No
+363806,Jules,Martinez,39,Homme,2024-06-10,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+583498,Gabriel,Thomas,32,Femme,2025-04-02,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,Yes
+110200,Tom,Andre,52,Femme,2024-11-02,Silver,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Mobile,Yes
+236481,Manon,Bonnet,34,Homme,2025-01-07,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+131288,Sami,Martinez,45,Femme,2024-04-15,Silver,Paris,Île-de-France,France,Organic Search,Mobile,No
+734069,Ethan,Andre,34,Femme,2025-08-20,Bronze,Nantes,Pays de la Loire,France,Referral,Mobile,Yes
+969617,Olivia,Thomas,27,Femme,2024-08-02,Gold,Paris,Île-de-France,France,Organic Search,Mobile,No
+407189,Lucas,Lambert,32,Femme,2024-02-18,Silver,Paris,Île-de-France,France,Social Media,Mobile,No
+632816,Adam,Garcia,32,Homme,2025-02-05,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,No
+270734,Adam,Michel,33,Homme,2025-06-08,Silver,Lille,Hauts-de-France,France,Organic Search,Desktop,Yes
+909205,Ava,Fournier,41,Homme,2025-08-02,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+633555,Sarah,Francois,28,Femme,2024-09-27,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+194345,Adam,Garcia,32,Homme,2025-09-22,Bronze,Lille,Hauts-de-France,France,Direct,Mobile,No
+151728,Ethan,Garcia,44,Femme,2024-04-24,Silver,Paris,Île-de-France,France,Social Media,Mobile,Yes
+707337,Ava,Thomas,48,Femme,2024-10-01,Silver,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+995196,Liam,Fournier,26,Femme,2024-04-14,Silver,Paris,Île-de-France,France,Paid Search,Mobile,No
+827812,Eva,Petit,58,Femme,2025-09-09,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+979370,Adam,Durand,30,Femme,2025-08-29,Bronze,Strasbourg,Grand Est,France,Organic Search,Mobile,No
+403081,Yanis,Morel,55,Femme,2024-01-30,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Desktop,Yes
+733206,Sophia,Thomas,38,Homme,2025-08-17,Bronze,Genève,Genève,Suisse,Organic Search,Mobile,Yes
+924293,Eva,Francois,40,Homme,2025-11-07,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+516655,Yanis,Morel,47,Homme,2024-01-19,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,No
+355308,Liam,Roux,42,Femme,2025-10-09,Bronze,Nantes,Pays de la Loire,France,Email,Desktop,Yes
+851397,Ava,Simon,48,Homme,2024-02-27,Silver,Genève,Genève,Suisse,Organic Search,Mobile,Yes
+159766,Arthur,Legrand,35,Femme,2025-02-14,Bronze,Toulouse,Occitanie,France,Referral,Tablet,Yes
+637623,Ethan,Martinez,33,Femme,2024-07-12,Silver,Paris,Île-de-France,France,Paid Search,Mobile,No
+606428,Jules,Mercier,55,Homme,2024-08-01,Silver,Paris,Île-de-France,France,Paid Search,Mobile,No
+768809,Ines,Francois,30,Homme,2025-04-06,Silver,Paris,Île-de-France,France,Direct,Mobile,Yes
+881446,Olivia,Leroy,38,Femme,2025-03-10,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+664532,Noah,Legrand,44,Femme,2025-12-06,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,Yes
+415734,Chloe,Roux,32,Femme,2024-07-15,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+740180,Alice,Martinez,36,Homme,2025-10-12,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+327341,Sophia,Dupont,35,Homme,2025-01-21,Bronze,Paris,Île-de-France,France,Direct,Mobile,No
+159448,Lucas,David,63,Homme,2025-06-17,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Mobile,Yes
+786550,Louis,Moreau,26,Homme,2024-12-20,Silver,Lille,Hauts-de-France,France,Organic Search,Mobile,No
+828973,Yanis,Roux,57,Homme,2025-03-02,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Direct,Desktop,Yes
+801451,Manon,Durand,29,Femme,2025-11-18,Bronze,Dakar,Dakar,Sénégal,Email,Mobile,Yes
+531269,Lina,Richard,18,Femme,2024-09-01,Gold,Strasbourg,Grand Est,France,Social Media,Mobile,No
+239323,Sami,Durand,24,Homme,2024-06-02,Bronze,Genève,Genève,Suisse,Direct,Mobile,Yes
+272490,Tom,Petit,41,Femme,2025-03-27,Bronze,Nantes,Pays de la Loire,France,Paid Search,Mobile,Yes
+797777,Mia,Durand,36,Femme,2025-11-16,Bronze,Lille,Hauts-de-France,France,Email,Desktop,Yes
+751566,Nathan,Michel,30,Femme,2024-12-29,Silver,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,Yes
+670303,Lina,Vincent,39,Femme,2025-11-01,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,No
+928896,Noah,Roux,19,Homme,2024-10-21,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+698068,Louis,Francois,47,Femme,2024-11-07,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+250494,Chloe,Martinez,41,Femme,2024-08-03,Bronze,Lille,Hauts-de-France,France,Referral,Mobile,Yes
+648235,Lea,Bertrand,38,Femme,2024-05-01,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,No
+770578,Manon,Roux,29,Homme,2025-11-13,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+851246,Sophia,Martin,28,Homme,2025-12-18,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+791897,Nora,Morel,40,Non précisé,2024-02-28,Bronze,Genève,Genève,Suisse,Organic Search,Mobile,No
+122041,Lea,Bernard,18,Homme,2025-03-20,Silver,Paris,Île-de-France,France,Organic Search,Mobile,No
+143248,Ava,Bernard,38,Femme,2025-12-18,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,No
+140524,Liam,David,22,Femme,2025-07-31,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Mobile,Yes
+814633,Tom,Thomas,56,Femme,2024-03-26,Bronze,Paris,Île-de-France,France,Direct,Mobile,Yes
+821516,Noah,Simon,54,Homme,2024-01-17,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,No
+609833,Nathan,Andre,40,Femme,2024-01-15,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+374084,Arthur,Girard,42,Femme,2024-07-04,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+212029,Liam,Francois,40,Homme,2024-08-14,Gold,Montréal,Québec,Canada,Email,Desktop,Yes
+634463,Gabriel,Bonnet,58,Femme,2025-08-06,Bronze,Strasbourg,Grand Est,France,Direct,Mobile,No
+241099,Ines,Bertrand,23,Homme,2025-01-06,Silver,Paris,Île-de-France,France,Direct,Desktop,No
+147647,Ines,Morel,25,Homme,2024-09-05,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+368856,Eva,Durand,31,Homme,2025-08-16,Bronze,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+945209,Manon,Roux,33,Homme,2025-09-01,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,No
+839661,Ava,Morel,43,Femme,2024-07-05,Silver,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,No
+256451,Chloe,Girard,54,Femme,2025-03-12,Bronze,Dakar,Dakar,Sénégal,Direct,Mobile,No
+906510,Noah,Legrand,44,Homme,2024-03-25,Silver,Genève,Genève,Suisse,Referral,Mobile,Yes
+709841,Adam,Martinez,37,Homme,2025-03-23,Silver,Toulouse,Occitanie,France,Direct,Desktop,Yes
+694107,Noah,Thomas,43,Homme,2024-12-01,Silver,Strasbourg,Grand Est,France,Paid Search,Desktop,Yes
+947151,Lucas,Girard,54,Homme,2025-06-08,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+825816,Chloe,Garcia,50,Femme,2024-08-21,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,Yes
+220772,Lea,Garcia,42,Femme,2024-02-05,Bronze,Genève,Genève,Suisse,Referral,Mobile,No
+524502,Sarah,David,26,Femme,2024-12-24,Silver,Strasbourg,Grand Est,France,Paid Search,Mobile,Yes
+856889,Ava,David,52,Femme,2025-05-31,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Direct,Desktop,Yes
+343698,Nathan,Moreau,38,Homme,2024-07-08,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+317350,Sami,Robert,31,Homme,2025-04-04,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,Yes
+719528,Louis,Girard,31,Femme,2024-09-13,Silver,Paris,Île-de-France,France,Referral,Mobile,Yes
+215222,Leo,Vincent,52,Homme,2024-03-05,Gold,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+887956,Sami,Moreau,33,Homme,2024-09-11,Silver,Bordeaux,Nouvelle-Aquitaine,France,Direct,Mobile,No
+429479,Lina,Petit,40,Homme,2024-08-31,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,Yes
+240302,Leo,Bonnet,44,Femme,2024-11-14,Bronze,Nantes,Pays de la Loire,France,Organic Search,Desktop,Yes
+664085,Adam,Lefebvre,31,Homme,2024-01-17,Bronze,Strasbourg,Grand Est,France,Social Media,Desktop,No
+238013,Liam,Mercier,18,Femme,2025-05-12,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+873581,Adam,Simon,30,Femme,2024-12-16,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+687269,Alice,Bernard,24,Homme,2025-04-02,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Desktop,Yes
+217277,Liam,Martin,31,Femme,2024-07-11,Gold,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,Yes
+343327,Adam,Morel,44,Homme,2025-08-24,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+540730,Ava,Fournier,36,Femme,2024-12-20,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,No
+884533,Ines,Bonnet,35,Homme,2024-01-16,Silver,Dakar,Dakar,Sénégal,Organic Search,Mobile,Yes
+518131,Emma,Roux,57,Femme,2024-05-29,Bronze,Paris,Île-de-France,France,Social Media,Desktop,Yes
+850369,Lucas,Bonnet,41,Homme,2025-09-18,Bronze,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+213581,Louis,Bernard,36,Homme,2025-10-03,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Mobile,No
+302949,Adam,Francois,30,Homme,2025-06-21,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Mobile,Yes
+917094,Lina,Richard,28,Femme,2024-03-05,Gold,Nantes,Pays de la Loire,France,Email,Mobile,Yes
+349308,Sarah,Bertrand,41,Homme,2025-12-22,Bronze,Paris,Île-de-France,France,Organic Search,Tablet,Yes
+401774,Louis,Laurent,27,Homme,2025-12-05,Bronze,Lille,Hauts-de-France,France,Social Media,Desktop,Yes
+209508,Chloe,Laurent,45,Femme,2025-07-17,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+999634,Mia,Mercier,36,Homme,2025-01-24,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,No
+733276,Mia,David,32,Homme,2025-06-07,Silver,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+773799,Hugo,Martin,45,Homme,2024-01-21,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Email,Mobile,No
+184256,Olivia,Dupont,36,Homme,2025-09-09,Bronze,Toulouse,Occitanie,France,Referral,Desktop,Yes
+301022,Alice,Garcia,27,Homme,2024-05-10,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Email,Mobile,No
+224914,Sophia,Bonnet,50,Homme,2024-08-31,Bronze,Paris,Île-de-France,France,Email,Mobile,No
+147387,Leo,Moreau,48,Femme,2025-07-10,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,No
+781848,Sarah,Francois,59,Homme,2024-08-12,Silver,Genève,Genève,Suisse,Direct,Desktop,Yes
+549554,Sophia,David,33,Femme,2024-03-16,Gold,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+662520,Camille,Mercier,47,Femme,2024-10-13,Silver,Paris,Île-de-France,France,Direct,Desktop,Yes
+952440,Manon,Richard,47,Femme,2025-12-30,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+398147,Ethan,Bertrand,18,Femme,2024-06-07,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+734767,Jules,Petit,27,Femme,2025-03-03,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+912243,Yanis,Bertrand,38,Femme,2025-04-11,Silver,Dakar,Dakar,Sénégal,Paid Search,Tablet,No
+249796,Mia,Michel,41,Femme,2024-11-06,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+985852,Louis,Leroy,45,Femme,2025-11-10,Bronze,Paris,Île-de-France,France,Direct,Mobile,No
+832849,Leo,Fournier,40,Femme,2024-08-14,Gold,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,No
+690794,Hugo,Lefebvre,24,Homme,2025-08-22,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+760293,Manon,Lefebvre,18,Femme,2024-05-25,Gold,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+788144,Jules,Leroy,23,Homme,2024-06-23,Gold,Nantes,Pays de la Loire,France,Referral,Mobile,Yes
+667474,Lina,Girard,29,Femme,2024-05-20,Bronze,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+495087,Alice,Leroy,42,Homme,2025-03-20,Bronze,Nantes,Pays de la Loire,France,Paid Search,Mobile,No
+522620,Lucas,Simon,39,Homme,2024-12-01,Bronze,Genève,Genève,Suisse,Social Media,Tablet,Yes
+936955,Sarah,Martinez,35,Femme,2025-12-05,Bronze,Strasbourg,Grand Est,France,Organic Search,Mobile,Yes
+355481,Camille,Martinez,37,Homme,2024-11-17,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,Yes
+845234,Lina,Petit,49,Femme,2025-07-03,Bronze,Toulouse,Occitanie,France,Paid Search,Desktop,Yes
+164861,Emma,Girard,19,Femme,2025-05-26,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,No
+930328,Yanis,David,20,Femme,2025-06-15,Silver,Lille,Hauts-de-France,France,Organic Search,Desktop,Yes
+636536,Leo,David,35,Femme,2024-04-30,Silver,Paris,Île-de-France,France,Direct,Mobile,Yes
+571089,Alice,Andre,32,Femme,2024-01-17,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+444949,Emma,Robert,44,Homme,2024-01-06,Silver,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+892918,Liam,Morel,22,Femme,2024-08-15,Gold,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+497108,Noah,Robert,31,Homme,2025-01-21,Bronze,Strasbourg,Grand Est,France,Referral,Mobile,No
+227387,Noah,Lefebvre,39,Homme,2025-10-16,Silver,Paris,Île-de-France,France,Referral,Desktop,Yes
+465243,Manon,Andre,38,Femme,2024-11-04,Bronze,Nantes,Pays de la Loire,France,Paid Search,Mobile,No
+900448,Sarah,Robert,53,Femme,2025-02-27,Silver,Montréal,Québec,Canada,Social Media,Mobile,No
+496342,Eva,Roux,18,Homme,2025-01-19,Bronze,Lille,Hauts-de-France,France,Organic Search,Desktop,No
+703633,Liam,Dubois,29,Homme,2024-11-06,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Desktop,Yes
+422472,Sophia,Lefebvre,73,Femme,2025-09-13,Silver,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+205165,Lina,Morel,25,Homme,2024-11-23,Silver,Genève,Genève,Suisse,Organic Search,Desktop,Yes
+574710,Manon,Leroy,48,Homme,2025-06-29,Silver,Paris,Île-de-France,France,Organic Search,Tablet,Yes
+232146,Gabriel,Dubois,25,Homme,2024-01-03,Silver,Paris,Île-de-France,France,Referral,Mobile,Yes
+551094,Liam,Dubois,18,Non précisé,2024-12-04,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+976394,Alice,Mercier,18,Femme,2024-09-09,Silver,Lille,Hauts-de-France,France,Email,Mobile,Yes
+748099,Chloe,David,20,Femme,2025-01-04,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,No
+478084,Jules,Laurent,64,Femme,2025-01-27,Silver,Paris,Île-de-France,France,Direct,Tablet,No
+581771,Ines,Leroy,20,Femme,2025-07-23,Silver,Nantes,Pays de la Loire,France,Referral,Desktop,No
+422958,Olivia,Vincent,34,Femme,2025-08-29,Bronze,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+300416,Eva,Martin,44,Homme,2025-11-03,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,No
+657571,Emma,Roux,43,Femme,2025-03-06,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,No
+746233,Ava,Michel,29,Femme,2024-11-10,Silver,Strasbourg,Grand Est,France,Direct,Mobile,Yes
+985158,Camille,Robert,68,Femme,2025-02-15,Silver,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+122169,Jules,Bernard,39,Femme,2025-07-03,Bronze,Toulouse,Occitanie,France,Referral,Mobile,Yes
+847964,Chloe,Simon,22,Femme,2025-07-28,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Mobile,Yes
+553516,Alice,Lambert,38,Non précisé,2025-04-30,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+186797,Ava,Petit,37,Homme,2024-04-21,Gold,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+556094,Hugo,Legrand,41,Femme,2025-04-16,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Desktop,Yes
+129992,Sophia,Andre,39,Femme,2025-07-12,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+401833,Jules,Lefebvre,43,Femme,2025-06-05,Bronze,Toulouse,Occitanie,France,Social Media,Desktop,Yes
+373683,Chloe,Dupont,54,Homme,2025-08-19,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+747145,Noah,Vincent,22,Homme,2025-02-17,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+830099,Sophia,Lambert,28,Homme,2025-04-09,Bronze,Paris,Île-de-France,France,Referral,Mobile,No
+345015,Olivia,Girard,48,Homme,2025-03-16,Bronze,Strasbourg,Grand Est,France,Paid Search,Desktop,Yes
+145895,Hugo,Martin,18,Femme,2025-04-28,Bronze,Strasbourg,Grand Est,France,Social Media,Desktop,Yes
+527795,Nathan,Dubois,60,Femme,2024-05-30,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+242246,Liam,Laurent,25,Homme,2025-08-25,Silver,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+323345,Lea,Garcia,45,Homme,2024-04-29,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+513961,Hugo,Martinez,35,Non précisé,2024-07-23,Silver,Paris,Île-de-France,France,Referral,Mobile,Yes
+434429,Eva,Michel,27,Homme,2025-01-08,Bronze,Genève,Genève,Suisse,Direct,Mobile,Yes
+658396,Nora,Richard,28,Femme,2025-06-10,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+951634,Ava,Bertrand,37,Non précisé,2024-06-02,Gold,Strasbourg,Grand Est,France,Organic Search,Mobile,Yes
+215298,Alice,Roux,47,Femme,2024-12-13,Bronze,Paris,Île-de-France,France,Direct,Mobile,No
+921568,Gabriel,Andre,33,Homme,2024-07-03,Gold,Paris,Île-de-France,France,Organic Search,Mobile,No
+857434,Jules,Girard,18,Femme,2024-12-31,Silver,Paris,Île-de-France,France,Social Media,Desktop,Yes
+995696,Hugo,Legrand,29,Femme,2025-02-09,Bronze,Dakar,Dakar,Sénégal,Direct,Mobile,Yes
+911822,Nora,Robert,53,Femme,2024-11-02,Bronze,Strasbourg,Grand Est,France,Paid Search,Desktop,No
+367476,Adam,Dubois,45,Homme,2025-10-27,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Mobile,No
+154643,Nathan,Bonnet,29,Homme,2024-07-13,Bronze,Montréal,Québec,Canada,Social Media,Desktop,Yes
+572395,Eva,Francois,32,Femme,2025-10-03,Bronze,Strasbourg,Grand Est,France,Organic Search,Mobile,Yes
+704405,Eva,Dupont,32,Homme,2025-08-31,Bronze,Montréal,Québec,Canada,Paid Search,Desktop,Yes
+990091,Manon,Robert,52,Femme,2025-01-19,Bronze,Paris,Île-de-France,France,Direct,Mobile,Yes
+332506,Adam,Andre,18,Homme,2025-09-24,Bronze,Lille,Hauts-de-France,France,Paid Search,Desktop,Yes
+474664,Yanis,Garcia,53,Homme,2024-11-03,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+107599,Ethan,Girard,52,Homme,2025-03-27,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,Yes
+913197,Camille,Durand,22,Homme,2025-02-26,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Desktop,Yes
+809415,Olivia,Bonnet,55,Femme,2025-12-04,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,No
+127228,Lea,Martin,27,Femme,2025-04-05,Silver,Nantes,Pays de la Loire,France,Direct,Mobile,Yes
+587705,Tom,Girard,34,Homme,2025-01-05,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+277840,Mia,Bertrand,28,Femme,2025-12-01,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+546434,Lucas,Francois,39,Homme,2025-04-17,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+859385,Hugo,Richard,49,Femme,2025-03-22,Bronze,Strasbourg,Grand Est,France,Referral,Desktop,Yes
+355307,Chloe,Francois,41,Non précisé,2024-07-01,Bronze,Nantes,Pays de la Loire,France,Paid Search,Desktop,No
+748344,Arthur,Fournier,53,Femme,2025-07-22,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+198906,Mia,Michel,29,Homme,2024-01-09,Silver,Genève,Genève,Suisse,Paid Search,Mobile,No
+925034,Ava,Fournier,46,Homme,2024-06-30,Bronze,Dakar,Dakar,Sénégal,Social Media,Mobile,No
+265758,Lina,Bonnet,18,Femme,2024-09-05,Silver,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,Yes
+470490,Chloe,Mercier,55,Femme,2024-08-15,Bronze,Paris,Île-de-France,France,Email,Mobile,Yes
+557889,Arthur,Durand,33,Femme,2024-11-29,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Referral,Mobile,No
+296484,Manon,Durand,50,Femme,2024-07-13,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Tablet,No
+834475,Lina,Leroy,42,Femme,2025-06-05,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+600680,Olivia,Simon,45,Homme,2025-02-17,Silver,Paris,Île-de-France,France,Paid Search,Mobile,No
+450952,Sophia,Bonnet,52,Homme,2024-03-25,Bronze,Paris,Île-de-France,France,Referral,Mobile,No
+240044,Mia,Laurent,45,Non précisé,2025-06-01,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+688526,Ines,Mercier,32,Homme,2025-07-04,Bronze,Nantes,Pays de la Loire,France,Paid Search,Mobile,Yes
+707964,Louis,Bonnet,48,Femme,2025-12-23,Bronze,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+577079,Liam,Dubois,38,Homme,2024-04-22,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+737650,Adam,Moreau,38,Homme,2025-02-12,Silver,Genève,Genève,Suisse,Social Media,Mobile,Yes
+107056,Gabriel,Michel,43,Femme,2024-03-10,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+990675,Liam,Bertrand,28,Femme,2024-12-22,Bronze,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+527499,Eva,Girard,19,Femme,2024-05-27,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+328733,Tom,Martin,30,Femme,2024-08-10,Silver,Nantes,Pays de la Loire,France,Direct,Desktop,Yes
+246295,Leo,Richard,18,Femme,2025-02-21,Bronze,Paris,Île-de-France,France,Direct,Desktop,Yes
+877546,Adam,Lambert,46,Homme,2024-02-20,Silver,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+981921,Lina,Robert,48,Homme,2024-08-25,Silver,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+838716,Gabriel,Girard,18,Femme,2025-02-21,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,No
+795983,Sophia,Andre,23,Homme,2024-06-04,Silver,Toulouse,Occitanie,France,Email,Desktop,No
+594249,Hugo,Francois,51,Homme,2025-12-13,Bronze,Nantes,Pays de la Loire,France,Referral,Mobile,Yes
+620936,Arthur,Andre,23,Homme,2024-07-21,Silver,Lille,Hauts-de-France,France,Paid Search,Desktop,Yes
+831411,Lea,Laurent,38,Femme,2025-06-18,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+218341,Sarah,Martinez,31,Femme,2025-07-17,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+322768,Olivia,Francois,47,Femme,2024-09-04,Silver,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+593958,Ethan,Dupont,34,Homme,2025-04-28,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+230603,Alice,Laurent,37,Femme,2024-06-18,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+493002,Alice,Lefebvre,33,Femme,2024-01-01,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+127177,Jules,Durand,55,Homme,2024-01-26,Silver,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+346423,Yanis,Roux,36,Femme,2025-04-08,Silver,Genève,Genève,Suisse,Organic Search,Mobile,No
+751192,Yanis,Laurent,45,Femme,2024-10-26,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Mobile,Yes
+507468,Lucas,Mercier,40,Femme,2024-12-17,Silver,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+436414,Camille,Richard,18,Femme,2024-07-23,Bronze,Nantes,Pays de la Loire,France,Paid Search,Desktop,Yes
+606502,Ines,Francois,46,Femme,2025-10-11,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+167359,Yanis,Garcia,18,Femme,2024-04-09,Gold,Paris,Île-de-France,France,Referral,Desktop,Yes
+780313,Lea,Lambert,40,Homme,2024-03-20,Silver,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+525369,Lina,Laurent,40,Homme,2024-01-03,Silver,Nantes,Pays de la Loire,France,Social Media,Desktop,Yes
+701299,Camille,Francois,23,Femme,2024-08-23,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,No
+438556,Sami,Moreau,43,Femme,2024-06-02,Bronze,Toulouse,Occitanie,France,Direct,Tablet,Yes
+334773,Arthur,Francois,34,Homme,2025-08-18,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+958235,Sarah,Robert,31,Femme,2024-06-10,Silver,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,Yes
+412125,Nathan,Dubois,42,Femme,2024-12-02,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,No
+594646,Hugo,Dupont,33,Femme,2024-01-18,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Mobile,Yes
+745605,Olivia,Martin,24,Femme,2025-10-06,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,No
+879588,Nathan,Girard,43,Femme,2025-10-29,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+694215,Lea,Dupont,27,Femme,2025-10-17,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Referral,Tablet,Yes
+191540,Lina,Legrand,43,Femme,2025-09-23,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+152448,Hugo,Robert,73,Homme,2024-10-18,Silver,Strasbourg,Grand Est,France,Social Media,Mobile,No
+208296,Yanis,Roux,34,Femme,2024-06-14,Gold,Lille,Hauts-de-France,France,Direct,Mobile,No
+613208,Manon,Leroy,49,Femme,2024-06-28,Bronze,Toulouse,Occitanie,France,Organic Search,Desktop,No
+149113,Lina,Michel,25,Homme,2024-05-21,Silver,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+664535,Noah,Morel,35,Femme,2024-10-28,Silver,Paris,Île-de-France,France,Referral,Mobile,No
+478222,Leo,Girard,35,Homme,2024-07-22,Silver,Nantes,Pays de la Loire,France,Paid Search,Tablet,Yes
+806299,Lina,Morel,27,Homme,2024-01-15,Gold,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+791189,Ines,Fournier,46,Femme,2025-12-28,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+225761,Eva,Petit,57,Femme,2024-03-23,Gold,Strasbourg,Grand Est,France,Social Media,Mobile,Yes
+433309,Lina,Laurent,18,Homme,2025-12-18,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+658241,Gabriel,Legrand,47,Femme,2025-05-27,Silver,Paris,Île-de-France,France,Paid Search,Tablet,No
+384875,Hugo,Thomas,45,Femme,2025-06-02,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,No
+894892,Tom,Martinez,39,Homme,2024-04-19,Bronze,Nantes,Pays de la Loire,France,Referral,Tablet,Yes
+892690,Jules,Bernard,44,Homme,2024-02-22,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+874848,Noah,Richard,43,Femme,2025-01-24,Bronze,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+476735,Arthur,Garcia,33,Femme,2024-07-25,Silver,Montréal,Québec,Canada,Email,Mobile,No
+386998,Adam,Lambert,26,Homme,2024-06-28,Bronze,Paris,Île-de-France,France,Referral,Desktop,Yes
+318646,Arthur,Bernard,44,Femme,2024-06-01,Bronze,Lille,Hauts-de-France,France,Referral,Mobile,No
+295940,Ava,Fournier,42,Homme,2024-04-08,Gold,Nantes,Pays de la Loire,France,Direct,Mobile,Yes
+451365,Chloe,Laurent,47,Homme,2025-05-22,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+397499,Hugo,Francois,35,Femme,2025-05-11,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,No
+259110,Mia,Martinez,47,Non précisé,2024-06-21,Bronze,Strasbourg,Grand Est,France,Organic Search,Mobile,Yes
+888971,Sami,Legrand,37,Femme,2025-02-19,Bronze,Dakar,Dakar,Sénégal,Direct,Desktop,Yes
+678412,Eva,Vincent,39,Femme,2024-09-23,Gold,Paris,Île-de-France,France,Paid Search,Desktop,No
+349706,Yanis,Michel,65,Femme,2024-10-15,Bronze,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+405090,Alice,Bernard,35,Femme,2025-12-20,Bronze,Lille,Hauts-de-France,France,Direct,Desktop,Yes
+319377,Mia,Vincent,35,Homme,2024-05-29,Gold,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+797700,Sarah,Lambert,51,Femme,2025-05-19,Bronze,Toulouse,Occitanie,France,Direct,Mobile,Yes
+419246,Mia,Martinez,22,Femme,2024-10-17,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+757102,Ethan,Legrand,31,Homme,2024-06-11,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+892559,Liam,Bonnet,41,Homme,2025-07-04,Bronze,Dakar,Dakar,Sénégal,Organic Search,Mobile,Yes
+511732,Sarah,Andre,34,Femme,2024-10-28,Silver,Paris,Île-de-France,France,Direct,Tablet,No
+914638,Ethan,Moreau,40,Homme,2024-09-27,Silver,Paris,Île-de-France,France,Paid Search,Desktop,No
+601338,Eva,Lefebvre,46,Homme,2024-11-27,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Mobile,Yes
+498838,Ethan,Legrand,50,Femme,2024-05-23,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+907651,Noah,Bertrand,35,Homme,2024-10-07,Bronze,Lille,Hauts-de-France,France,Referral,Mobile,Yes
+658752,Lina,Moreau,39,Femme,2025-07-22,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,Yes
+608992,Hugo,Petit,45,Femme,2025-05-12,Bronze,Paris,Île-de-France,France,Email,Mobile,No
+957124,Nathan,Lambert,35,Femme,2024-03-16,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+415785,Adam,Garcia,43,Homme,2025-10-28,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Desktop,No
+740137,Nora,Andre,55,Femme,2025-03-04,Bronze,Paris,Île-de-France,France,Direct,Desktop,No
+685158,Hugo,Laurent,33,Femme,2025-06-15,Bronze,Montréal,Québec,Canada,Organic Search,Mobile,No
+132740,Liam,Richard,30,Femme,2025-07-10,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+990071,Manon,Moreau,34,Homme,2024-06-24,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+934753,Eva,Robert,29,Femme,2025-01-06,Silver,Paris,Île-de-France,France,Social Media,Mobile,Yes
+276189,Nathan,Dupont,50,Homme,2025-02-20,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+252422,Mia,Laurent,39,Homme,2024-10-28,Gold,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+427852,Sophia,Morel,43,Homme,2024-05-21,Bronze,Dakar,Dakar,Sénégal,Paid Search,Mobile,No
+481329,Manon,David,23,Homme,2025-07-19,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Desktop,Yes
+232347,Nora,David,41,Femme,2024-07-02,Gold,Nantes,Pays de la Loire,France,Direct,Mobile,Yes
+238295,Jules,Girard,18,Femme,2025-05-14,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,No
+179100,Eva,Simon,33,Femme,2025-12-01,Bronze,Lille,Hauts-de-France,France,Social Media,Desktop,Yes
+352768,Ines,Francois,32,Non précisé,2024-07-30,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+394335,Sophia,Richard,21,Femme,2025-02-02,Silver,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+953532,Lina,Vincent,51,Femme,2025-02-04,Bronze,Paris,Île-de-France,France,Organic Search,Tablet,Yes
+529844,Yanis,Thomas,44,Homme,2025-04-14,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+298043,Sami,Robert,39,Homme,2025-02-20,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+134930,Manon,Garcia,34,Femme,2025-11-14,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Desktop,No
+218735,Sami,Morel,56,Homme,2025-06-29,Silver,Montréal,Québec,Canada,Social Media,Desktop,Yes
+178407,Sophia,Girard,47,Femme,2025-07-21,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+370230,Lina,Mercier,34,Homme,2024-04-26,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+357823,Gabriel,Francois,29,Homme,2024-02-03,Bronze,Dakar,Dakar,Sénégal,Email,Mobile,No
+447274,Noah,Bonnet,34,Femme,2025-02-06,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Desktop,Yes
+122951,Lucas,Martin,18,Femme,2025-02-16,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+644311,Liam,Girard,34,Homme,2024-06-05,Silver,Montréal,Québec,Canada,Organic Search,Mobile,Yes
+859285,Manon,Roux,25,Homme,2025-05-11,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+672950,Gabriel,Petit,29,Homme,2024-07-03,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+202492,Sami,Garcia,35,Homme,2024-07-07,Silver,Genève,Genève,Suisse,Organic Search,Mobile,Yes
+478316,Adam,Bernard,40,Homme,2025-09-15,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+284704,Eva,Robert,35,Femme,2024-07-02,Silver,Toulouse,Occitanie,France,Direct,Desktop,Yes
+537643,Arthur,Richard,37,Homme,2025-02-23,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,No
+843336,Tom,Legrand,28,Homme,2025-06-20,Bronze,Dakar,Dakar,Sénégal,Social Media,Desktop,Yes
+535998,Lina,Laurent,42,Homme,2025-10-08,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+940815,Gabriel,Thomas,33,Homme,2025-08-10,Bronze,Strasbourg,Grand Est,France,Paid Search,Mobile,Yes
+889134,Ethan,Bertrand,25,Homme,2024-07-29,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Desktop,Yes
+339382,Mia,Bertrand,18,Homme,2025-12-18,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+666728,Eva,Bertrand,26,Femme,2024-06-15,Silver,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+225018,Gabriel,Legrand,56,Femme,2024-08-01,Bronze,Paris,Île-de-France,France,Direct,Mobile,Yes
+893419,Hugo,Andre,21,Femme,2025-02-24,Bronze,Strasbourg,Grand Est,France,Referral,Mobile,No
+391584,Louis,Laurent,47,Femme,2024-07-28,Silver,Paris,Île-de-France,France,Direct,Mobile,No
+908200,Sophia,Martinez,40,Homme,2025-02-08,Silver,Paris,Île-de-France,France,Direct,Desktop,No
+122059,Lina,Francois,33,Homme,2025-10-14,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Email,Desktop,Yes
+935758,Sophia,David,20,Femme,2024-10-14,Gold,Nantes,Pays de la Loire,France,Social Media,Desktop,Yes
+860036,Lucas,Moreau,46,Homme,2025-02-15,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+778891,Sophia,Roux,35,Femme,2024-07-30,Bronze,Genève,Genève,Suisse,Organic Search,Mobile,Yes
+733644,Lea,Mercier,50,Homme,2025-09-01,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+677062,Ethan,Mercier,28,Homme,2024-07-19,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,Yes
+953413,Ethan,Laurent,52,Homme,2024-01-01,Gold,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+268270,Sami,Fournier,40,Femme,2025-07-08,Silver,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+649861,Tom,Legrand,33,Homme,2024-11-18,Bronze,Toulouse,Occitanie,France,Referral,Mobile,No
+362615,Sarah,Vincent,44,Homme,2024-07-11,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+176763,Nora,Bertrand,44,Homme,2024-08-10,Silver,Lille,Hauts-de-France,France,Organic Search,Desktop,No
+841402,Sophia,Durand,23,Homme,2025-06-24,Bronze,Montréal,Québec,Canada,Paid Search,Mobile,No
+279792,Nathan,Richard,55,Femme,2025-10-02,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,Yes
+923517,Lea,Leroy,69,Homme,2025-01-20,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Desktop,Yes
+709631,Chloe,Bertrand,30,Femme,2024-11-02,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Desktop,Yes
+453656,Mia,Lefebvre,30,Femme,2024-03-22,Silver,Strasbourg,Grand Est,France,Organic Search,Mobile,Yes
+825293,Louis,Girard,27,Homme,2025-03-03,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+536837,Sophia,Bonnet,51,Homme,2025-08-19,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+120293,Sami,Martin,18,Homme,2025-02-07,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,No
+344294,Lea,Richard,34,Femme,2024-01-28,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+662004,Adam,Richard,32,Homme,2025-01-09,Bronze,Toulouse,Occitanie,France,Referral,Mobile,No
+269867,Jules,Simon,31,Homme,2025-01-08,Silver,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+982561,Sophia,Garcia,27,Femme,2024-10-19,Silver,Nantes,Pays de la Loire,France,Organic Search,Tablet,Yes
+260393,Arthur,Garcia,33,Non précisé,2024-07-09,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+900924,Noah,Roux,50,Homme,2024-05-30,Bronze,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+745576,Gabriel,Michel,35,Homme,2024-04-30,Gold,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+118818,Hugo,Legrand,34,Homme,2025-06-05,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+135253,Louis,Petit,39,Homme,2024-08-11,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+767619,Leo,Bertrand,59,Homme,2025-10-25,Bronze,Dakar,Dakar,Sénégal,Organic Search,Mobile,No
+195760,Noah,Richard,37,Homme,2025-06-05,Silver,Genève,Genève,Suisse,Social Media,Mobile,No
+944397,Manon,Bertrand,51,Femme,2024-07-15,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,No
+149154,Gabriel,Martin,18,Femme,2025-08-14,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+412096,Manon,Bertrand,18,Femme,2024-09-29,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+942793,Chloe,Francois,56,Non précisé,2025-10-07,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Desktop,No
+233651,Nora,Francois,35,Homme,2025-10-06,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+243925,Lucas,Martin,18,Femme,2024-05-30,Silver,Paris,Île-de-France,France,Email,Mobile,Yes
+265689,Olivia,Laurent,33,Femme,2024-02-21,Silver,Montréal,Québec,Canada,Direct,Mobile,Yes
+731524,Sophia,Simon,18,Homme,2025-01-14,Silver,Nantes,Pays de la Loire,France,Email,Mobile,Yes
+710007,Chloe,Lefebvre,45,Homme,2025-11-18,Bronze,Strasbourg,Grand Est,France,Social Media,Mobile,Yes
+550396,Ethan,Dupont,38,Homme,2024-03-28,Gold,Bruxelles,Bruxelles-Capitale,Belgique,Direct,Mobile,Yes
+333693,Chloe,Dubois,48,Femme,2024-08-26,Bronze,Paris,Île-de-France,France,Paid Search,Tablet,Yes
+543532,Lea,Robert,43,Femme,2024-02-12,Silver,Genève,Genève,Suisse,Email,Mobile,Yes
+499665,Leo,Thomas,45,Homme,2024-06-12,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+616780,Camille,Girard,20,Femme,2024-05-28,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+812830,Emma,Michel,37,Homme,2024-12-27,Bronze,Paris,Île-de-France,France,Paid Search,Tablet,No
+729423,Lea,Vincent,37,Femme,2025-09-17,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Desktop,Yes
+784695,Camille,Martinez,32,Homme,2025-07-30,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Desktop,Yes
+651126,Jules,Andre,18,Femme,2025-07-11,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+101244,Liam,Martin,42,Femme,2024-03-02,Bronze,Lille,Hauts-de-France,France,Organic Search,Desktop,Yes
+363608,Ava,Francois,50,Homme,2024-05-05,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Desktop,Yes
+858397,Alice,Laurent,42,Femme,2024-11-15,Bronze,Lille,Hauts-de-France,France,Paid Search,Desktop,Yes
+760200,Leo,Lefebvre,36,Femme,2025-03-12,Bronze,Strasbourg,Grand Est,France,Paid Search,Desktop,Yes
+405338,Ines,Moreau,45,Femme,2024-03-30,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+906617,Eva,Simon,26,Femme,2025-05-10,Bronze,Toulouse,Occitanie,France,Organic Search,Tablet,Yes
+552681,Olivia,Petit,61,Femme,2024-06-21,Bronze,Genève,Genève,Suisse,Direct,Mobile,Yes
+988265,Noah,Bernard,20,Femme,2025-12-02,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+180687,Lucas,Simon,30,Femme,2024-09-15,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+142846,Ines,Laurent,34,Femme,2025-08-19,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,Yes
+322606,Camille,Bernard,18,Homme,2024-10-26,Silver,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Tablet,Yes
+286983,Noah,Moreau,26,Homme,2024-04-11,Silver,Paris,Île-de-France,France,Social Media,Desktop,Yes
+578279,Ethan,Roux,36,Femme,2024-01-09,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+770978,Tom,Francois,43,Femme,2025-07-11,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+979191,Arthur,Petit,43,Homme,2024-11-21,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+248706,Nora,Dupont,46,Femme,2024-04-22,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,Yes
+153668,Sarah,Legrand,19,Femme,2024-03-30,Bronze,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+426016,Sami,Michel,27,Homme,2024-10-14,Silver,Paris,Île-de-France,France,Direct,Mobile,Yes
+215775,Emma,Bernard,31,Femme,2025-12-02,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Desktop,No
+843951,Sami,Vincent,32,Homme,2025-08-23,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Desktop,Yes
+119473,Alice,Dubois,53,Non précisé,2024-12-10,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,No
+296517,Eva,Bonnet,27,Homme,2024-02-09,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Mobile,No
+311826,Ethan,Bertrand,57,Homme,2024-07-13,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+916917,Yanis,Bonnet,54,Femme,2024-01-13,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Mobile,Yes
+874355,Chloe,Mercier,28,Homme,2024-11-13,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,No
+220868,Chloe,Vincent,21,Homme,2025-04-11,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+551665,Olivia,Bonnet,59,Femme,2024-05-22,Silver,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Tablet,Yes
+674593,Sarah,Robert,44,Femme,2025-05-21,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Email,Mobile,Yes
+775109,Adam,Bernard,41,Femme,2024-02-26,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+291896,Ethan,Dupont,27,Homme,2024-09-01,Silver,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Desktop,Yes
+636450,Liam,Bonnet,40,Homme,2024-05-18,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+752309,Ava,Andre,18,Homme,2025-10-25,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Referral,Mobile,Yes
+927673,Alice,Andre,55,Homme,2024-10-13,Silver,Lille,Hauts-de-France,France,Referral,Desktop,No
+252615,Gabriel,Garcia,42,Homme,2025-07-16,Bronze,Genève,Genève,Suisse,Organic Search,Mobile,No
+349886,Ines,Moreau,19,Homme,2024-02-06,Silver,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,Yes
+547877,Ethan,Lefebvre,46,Homme,2024-01-10,Silver,Toulouse,Occitanie,France,Direct,Desktop,Yes
+891384,Arthur,Lefebvre,61,Homme,2024-08-13,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Desktop,No
+878150,Ethan,Simon,37,Femme,2024-06-26,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,No
+603867,Tom,Legrand,37,Homme,2025-02-09,Silver,Paris,Île-de-France,France,Email,Mobile,Yes
+937039,Ines,Fournier,48,Femme,2025-06-03,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+258802,Adam,Thomas,18,Femme,2024-03-02,Silver,Lille,Hauts-de-France,France,Referral,Mobile,No
+634219,Nora,Laurent,45,Femme,2025-12-26,Bronze,Paris,Île-de-France,France,Direct,Desktop,No
+825035,Lucas,Dupont,37,Femme,2024-10-15,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+388402,Yanis,Richard,41,Femme,2024-05-08,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,Yes
+385849,Ethan,Dupont,58,Homme,2024-08-15,Silver,Dakar,Dakar,Sénégal,Organic Search,Mobile,Yes
+759117,Ines,David,23,Femme,2025-01-30,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Desktop,Yes
+865030,Liam,Michel,18,Homme,2025-12-31,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+566574,Liam,Bonnet,39,Homme,2025-10-28,Bronze,Strasbourg,Grand Est,France,Paid Search,Mobile,No
+622778,Sarah,Martin,37,Femme,2025-10-31,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,Yes
+135344,Sarah,Lambert,43,Femme,2024-10-03,Silver,Paris,Île-de-France,France,Social Media,Desktop,Yes
+950545,Noah,Durand,18,Femme,2024-10-23,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+316389,Camille,Thomas,42,Femme,2025-06-19,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Mobile,Yes
+760915,Lucas,Morel,33,Femme,2024-08-27,Silver,Genève,Genève,Suisse,Social Media,Mobile,No
+441319,Ethan,Bonnet,60,Homme,2025-10-30,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+548732,Leo,Francois,42,Homme,2024-01-21,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+147730,Alice,Bernard,32,Femme,2025-03-16,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Desktop,Yes
+256754,Mia,Laurent,29,Homme,2025-03-21,Bronze,Montréal,Québec,Canada,Email,Mobile,Yes
+850524,Nora,Simon,34,Femme,2025-10-02,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Desktop,Yes
+270516,Noah,Francois,34,Non précisé,2025-07-29,Bronze,Genève,Genève,Suisse,Social Media,Mobile,No
+239214,Alice,Thomas,30,Homme,2024-10-02,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,Yes
+101039,Emma,Thomas,37,Homme,2024-10-16,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Email,Mobile,Yes
+680839,Eva,Robert,53,Homme,2025-04-19,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+627159,Leo,Durand,33,Homme,2024-10-02,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+534490,Nora,David,44,Femme,2025-09-24,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Mobile,Yes
+264538,Nora,Lefebvre,47,Femme,2024-01-20,Bronze,Strasbourg,Grand Est,France,Email,Mobile,Yes
+204963,Ethan,Martinez,41,Homme,2025-11-08,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+727033,Adam,Michel,33,Homme,2025-12-03,Silver,Strasbourg,Grand Est,France,Paid Search,Mobile,Yes
+893579,Eva,Legrand,43,Homme,2025-10-19,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+104473,Sarah,Girard,45,Femme,2024-12-06,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Mobile,No
+736777,Gabriel,Roux,29,Homme,2025-10-05,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,Yes
+229805,Lucas,Lambert,31,Homme,2025-05-27,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Desktop,No
+262520,Eva,Morel,25,Femme,2025-07-27,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+756439,Sami,David,51,Homme,2024-01-22,Silver,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+385698,Gabriel,Girard,62,Non précisé,2024-11-28,Silver,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+944258,Camille,Dupont,32,Femme,2024-08-21,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+218807,Sami,Michel,26,Homme,2024-10-28,Bronze,Lille,Hauts-de-France,France,Direct,Mobile,No
+445004,Hugo,Lambert,23,Homme,2024-10-15,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,Yes
+110045,Olivia,Dupont,42,Homme,2025-09-01,Bronze,Paris,Île-de-France,France,Direct,Tablet,No
+104428,Leo,Michel,64,Homme,2025-06-20,Silver,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Mobile,Yes
+381770,Nathan,Garcia,35,Homme,2024-06-29,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+626632,Lina,Martinez,25,Homme,2025-06-03,Silver,Strasbourg,Grand Est,France,Direct,Desktop,Yes
+366627,Ava,Laurent,31,Femme,2025-02-14,Silver,Toulouse,Occitanie,France,Social Media,Mobile,No
+648715,Sami,Fournier,32,Femme,2025-01-25,Bronze,Lille,Hauts-de-France,France,Direct,Desktop,No
+148890,Adam,Michel,41,Homme,2025-02-16,Bronze,Montréal,Québec,Canada,Organic Search,Mobile,Yes
+473815,Lea,Bernard,18,Homme,2025-11-15,Bronze,Montréal,Québec,Canada,Organic Search,Mobile,Yes
+738362,Gabriel,Thomas,32,Homme,2024-11-15,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+361412,Gabriel,Durand,55,Homme,2025-10-21,Silver,Paris,Île-de-France,France,Email,Desktop,Yes
+125214,Nora,Francois,33,Homme,2025-03-12,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+223018,Yanis,Simon,44,Homme,2024-08-02,Silver,Toulouse,Occitanie,France,Organic Search,Mobile,No
+302877,Lea,Garcia,37,Femme,2025-01-07,Bronze,Strasbourg,Grand Est,France,Email,Desktop,Yes
+823600,Eva,Mercier,46,Femme,2025-03-21,Bronze,Lille,Hauts-de-France,France,Referral,Mobile,No
+141639,Manon,Morel,30,Femme,2025-06-22,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+487736,Emma,Lefebvre,48,Homme,2025-02-02,Bronze,Genève,Genève,Suisse,Direct,Mobile,No
+551223,Noah,Vincent,20,Femme,2024-05-13,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+722493,Nathan,Simon,45,Homme,2024-10-17,Bronze,Strasbourg,Grand Est,France,Paid Search,Desktop,No
+130614,Camille,Simon,20,Homme,2024-05-30,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+915937,Eva,Bertrand,55,Femme,2024-03-31,Silver,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+867969,Hugo,Bonnet,33,Femme,2024-01-20,Gold,Lille,Hauts-de-France,France,Organic Search,Tablet,Yes
+179027,Mia,Garcia,44,Femme,2024-04-14,Gold,Paris,Île-de-France,France,Paid Search,Mobile,No
+799337,Noah,Dupont,52,Femme,2024-05-03,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+767194,Ethan,Morel,52,Femme,2025-05-16,Bronze,Montréal,Québec,Canada,Email,Mobile,Yes
+900129,Lucas,Dubois,54,Femme,2025-12-31,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+181988,Yanis,Girard,26,Femme,2025-10-27,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,No
+350434,Liam,Garcia,50,Femme,2024-10-22,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,No
+397585,Yanis,Girard,38,Homme,2024-11-16,Bronze,Strasbourg,Grand Est,France,Paid Search,Mobile,No
+111946,Liam,Vincent,18,Femme,2024-04-11,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,No
+427830,Sarah,Andre,18,Femme,2024-05-01,Bronze,Toulouse,Occitanie,France,Social Media,Desktop,Yes
+924008,Ava,Dupont,50,Homme,2025-04-13,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+520836,Nathan,Dupont,53,Homme,2025-09-14,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Desktop,Yes
+750478,Alice,Durand,63,Femme,2025-09-26,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,Yes
+625591,Ethan,Francois,25,Femme,2024-05-11,Bronze,Montréal,Québec,Canada,Social Media,Desktop,Yes
+308996,Louis,Girard,28,Homme,2025-06-19,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+569244,Ines,Robert,30,Femme,2025-01-11,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+657891,Sophia,Robert,40,Non précisé,2025-05-11,Silver,Dakar,Dakar,Sénégal,Paid Search,Mobile,No
+252281,Olivia,Morel,37,Femme,2024-08-23,Silver,Strasbourg,Grand Est,France,Direct,Desktop,No
+752070,Emma,Legrand,48,Homme,2025-09-08,Bronze,Lille,Hauts-de-France,France,Direct,Desktop,Yes
+372597,Sarah,Morel,31,Femme,2024-04-09,Silver,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+889635,Arthur,Legrand,33,Femme,2025-02-04,Silver,Paris,Île-de-France,France,Referral,Mobile,Yes
+930697,Lucas,Fournier,32,Femme,2025-02-23,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,No
+102567,Manon,Durand,46,Homme,2025-06-26,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,Yes
+240638,Lina,Morel,23,Femme,2024-07-26,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Desktop,Yes
+132668,Arthur,Lambert,35,Femme,2024-05-30,Silver,Lyon,Auvergne-Rhône-Alpes,France,Email,Desktop,Yes
+165857,Noah,Simon,25,Femme,2025-09-06,Silver,Dakar,Dakar,Sénégal,Direct,Mobile,Yes
+416819,Noah,Martinez,34,Femme,2024-05-24,Silver,Genève,Genève,Suisse,Organic Search,Desktop,Yes
+531680,Ethan,David,40,Femme,2024-02-24,Gold,Genève,Genève,Suisse,Organic Search,Mobile,No
+878040,Louis,Robert,40,Femme,2025-11-25,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,No
+412156,Sarah,Lambert,23,Homme,2024-04-18,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+357048,Alice,Durand,45,Femme,2024-07-27,Gold,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,No
+570380,Liam,Laurent,63,Femme,2024-03-14,Bronze,Lille,Hauts-de-France,France,Referral,Mobile,Yes
+614194,Nathan,Bertrand,38,Homme,2025-01-20,Bronze,Montréal,Québec,Canada,Paid Search,Mobile,Yes
+464541,Alice,Girard,47,Femme,2025-03-27,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+912428,Chloe,Dubois,31,Homme,2024-01-26,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,No
+896794,Chloe,Fournier,35,Homme,2024-09-27,Gold,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+599202,Olivia,Moreau,38,Homme,2025-06-24,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Mobile,Yes
+412752,Noah,Moreau,51,Femme,2025-06-28,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+993630,Adam,Durand,53,Femme,2024-12-30,Bronze,Strasbourg,Grand Est,France,Paid Search,Desktop,No
+961374,Jules,Martin,35,Homme,2025-12-14,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+310556,Arthur,Martinez,22,Femme,2025-09-15,Bronze,Strasbourg,Grand Est,France,Referral,Mobile,Yes
+363814,Adam,Legrand,23,Femme,2024-03-12,Gold,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+629425,Liam,Martinez,49,Homme,2025-01-11,Bronze,Paris,Île-de-France,France,Social Media,Desktop,Yes
+883353,Manon,Martinez,24,Homme,2025-12-27,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Tablet,Yes
+920298,Olivia,Petit,52,Femme,2025-04-07,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Direct,Mobile,Yes
+346519,Emma,Dupont,43,Homme,2024-10-09,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,No
+294889,Lucas,Laurent,36,Femme,2025-11-08,Bronze,Genève,Genève,Suisse,Referral,Mobile,Yes
+920398,Emma,Bernard,45,Homme,2025-09-23,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,Yes
+827155,Hugo,Vincent,42,Femme,2025-11-22,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+830384,Sami,Leroy,41,Homme,2024-07-16,Bronze,Paris,Île-de-France,France,Email,Desktop,Yes
+348084,Ethan,Moreau,18,Homme,2024-12-31,Bronze,Dakar,Dakar,Sénégal,Email,Desktop,Yes
+765546,Lina,Martinez,41,Homme,2024-01-09,Bronze,Lille,Hauts-de-France,France,Referral,Desktop,Yes
+723590,Tom,Vincent,20,Homme,2024-10-22,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+606510,Ines,Vincent,52,Homme,2024-04-09,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,Yes
+400569,Lucas,Laurent,20,Homme,2024-05-08,Silver,Paris,Île-de-France,France,Social Media,Tablet,No
+968899,Hugo,Mercier,54,Femme,2024-07-04,Bronze,Dakar,Dakar,Sénégal,Email,Desktop,Yes
+955069,Olivia,Leroy,37,Femme,2024-11-08,Bronze,Dakar,Dakar,Sénégal,Referral,Mobile,Yes
+648342,Alice,Garcia,19,Femme,2024-02-13,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,No
+924659,Louis,Roux,38,Homme,2024-01-14,Silver,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+250538,Alice,Bernard,49,Homme,2024-08-13,Silver,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+853287,Jules,Martinez,43,Homme,2024-09-15,Silver,Lyon,Auvergne-Rhône-Alpes,France,Referral,Desktop,No
+548453,Leo,Legrand,52,Non précisé,2024-04-06,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+234791,Manon,Vincent,18,Homme,2025-10-17,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+858016,Nora,Girard,39,Homme,2025-10-25,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Desktop,Yes
+572736,Nora,Durand,40,Femme,2025-01-12,Silver,Nantes,Pays de la Loire,France,Social Media,Mobile,No
+837252,Noah,Fournier,41,Femme,2024-05-08,Bronze,Genève,Genève,Suisse,Paid Search,Desktop,No
+599849,Sophia,Bertrand,36,Femme,2025-12-15,Bronze,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+736629,Ines,Martin,45,Femme,2025-08-24,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+449479,Hugo,Moreau,48,Femme,2024-02-13,Silver,Lille,Hauts-de-France,France,Organic Search,Desktop,No
+756226,Sarah,Mercier,37,Femme,2025-03-01,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,No
+874948,Olivia,Girard,33,Homme,2025-02-02,Silver,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+374293,Emma,Moreau,46,Femme,2025-11-16,Bronze,Nantes,Pays de la Loire,France,Paid Search,Mobile,Yes
+746011,Camille,Bertrand,19,Homme,2024-09-08,Bronze,Paris,Île-de-France,France,Social Media,Desktop,Yes
+537368,Jules,Garcia,50,Femme,2025-02-02,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+419258,Sarah,Andre,18,Femme,2025-04-04,Silver,Toulouse,Occitanie,France,Referral,Mobile,Yes
+643393,Leo,David,50,Femme,2024-10-25,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+553514,Lea,Morel,48,Non précisé,2025-11-11,Bronze,Montréal,Québec,Canada,Referral,Mobile,No
+201963,Sophia,Roux,41,Femme,2024-04-02,Gold,Paris,Île-de-France,France,Social Media,Mobile,Yes
+709706,Yanis,Garcia,28,Homme,2025-11-22,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+358151,Manon,Michel,42,Femme,2024-03-18,Gold,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Mobile,Yes
+480449,Alice,Francois,58,Homme,2024-12-30,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+129611,Ava,Robert,25,Homme,2024-12-24,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Tablet,Yes
+364720,Eva,Martinez,63,Homme,2024-09-27,Silver,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+771578,Liam,Vincent,27,Femme,2024-05-28,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,Yes
+282434,Jules,Robert,25,Femme,2024-07-06,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,No
+616901,Gabriel,Thomas,39,Homme,2024-12-24,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+864761,Camille,Andre,46,Femme,2025-02-04,Silver,Paris,Île-de-France,France,Direct,Mobile,No
+718197,Lucas,Lefebvre,20,Femme,2025-03-19,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Desktop,Yes
+695498,Camille,Vincent,50,Non précisé,2024-07-06,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+886505,Jules,Morel,24,Femme,2025-03-20,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+765119,Chloe,Girard,45,Femme,2025-12-09,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+597105,Louis,Legrand,49,Femme,2025-07-08,Silver,Lille,Hauts-de-France,France,Email,Mobile,Yes
+212495,Ava,Michel,52,Homme,2025-10-06,Silver,Genève,Genève,Suisse,Paid Search,Desktop,Yes
+883140,Nathan,Laurent,38,Homme,2024-03-19,Silver,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,No
+456030,Chloe,Petit,46,Homme,2025-10-09,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+842218,Manon,Simon,24,Femme,2025-03-21,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,Yes
+746525,Jules,Fournier,47,Femme,2025-11-13,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+665255,Olivia,Bernard,39,Homme,2024-05-31,Gold,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,No
+871400,Lina,Robert,46,Femme,2024-01-28,Silver,Strasbourg,Grand Est,France,Organic Search,Tablet,Yes
+119113,Liam,Fournier,46,Femme,2025-09-19,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Desktop,No
+972317,Lea,Laurent,42,Femme,2025-02-10,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+618294,Hugo,Simon,37,Femme,2024-11-11,Silver,Paris,Île-de-France,France,Direct,Desktop,Yes
+396586,Ethan,Michel,41,Homme,2025-11-20,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Desktop,No
+654900,Louis,Fournier,18,Femme,2025-10-29,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+340627,Hugo,Leroy,43,Homme,2024-11-11,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,No
+627996,Adam,Morel,40,Femme,2024-08-17,Silver,Dakar,Dakar,Sénégal,Social Media,Mobile,Yes
+920139,Lea,Laurent,50,Femme,2024-11-20,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Tablet,No
+452641,Manon,Girard,47,Homme,2025-05-19,Silver,Paris,Île-de-France,France,Social Media,Mobile,Yes
+625384,Jules,Laurent,36,Homme,2025-09-05,Bronze,Montréal,Québec,Canada,Organic Search,Mobile,No
+713741,Manon,Laurent,18,Homme,2024-01-16,Silver,Dakar,Dakar,Sénégal,Paid Search,Desktop,Yes
+799352,Camille,Roux,33,Femme,2025-03-12,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Tablet,Yes
+136007,Manon,Dubois,37,Femme,2024-10-30,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Desktop,Yes
+726063,Sophia,Bernard,18,Homme,2025-06-17,Silver,Lille,Hauts-de-France,France,Organic Search,Mobile,No
+257178,Chloe,Martin,25,Homme,2024-05-25,Silver,Paris,Île-de-France,France,Social Media,Mobile,No
+604533,Adam,Garcia,47,Femme,2024-11-04,Bronze,Paris,Île-de-France,France,Referral,Mobile,No
+646360,Sophia,Girard,30,Homme,2025-06-16,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,Yes
+243318,Nathan,Morel,54,Femme,2024-06-26,Gold,Lille,Hauts-de-France,France,Social Media,Mobile,No
+118311,Manon,Francois,33,Homme,2025-07-25,Silver,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+179538,Jules,Dupont,53,Homme,2025-03-08,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Email,Mobile,Yes
+799268,Tom,Morel,31,Homme,2025-05-31,Silver,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+990001,Sophia,Roux,22,Femme,2025-12-19,Bronze,Toulouse,Occitanie,France,Direct,Mobile,No
+800426,Jules,Moreau,26,Homme,2024-12-22,Silver,Paris,Île-de-France,France,Social Media,Desktop,No
+287149,Mia,Dubois,54,Femme,2025-04-09,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+990930,Sami,Bonnet,34,Homme,2025-03-30,Bronze,Toulouse,Occitanie,France,Paid Search,Desktop,Yes
+535428,Camille,Bernard,21,Homme,2025-03-23,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,No
+657545,Chloe,Richard,38,Femme,2024-02-09,Silver,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+999021,Olivia,Lambert,30,Femme,2024-01-04,Silver,Toulouse,Occitanie,France,Direct,Desktop,No
+927285,Chloe,Richard,27,Homme,2025-06-27,Silver,Genève,Genève,Suisse,Social Media,Mobile,Yes
+178182,Tom,Leroy,37,Homme,2024-12-29,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Email,Desktop,Yes
+556016,Alice,Martinez,27,Femme,2025-06-19,Bronze,Lille,Hauts-de-France,France,Organic Search,Desktop,Yes
+433703,Leo,Legrand,33,Femme,2025-02-17,Bronze,Strasbourg,Grand Est,France,Paid Search,Mobile,Yes
+887269,Mia,Morel,24,Homme,2025-07-02,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Desktop,No
+859344,Leo,Durand,38,Homme,2024-07-13,Bronze,Nantes,Pays de la Loire,France,Organic Search,Desktop,Yes
+782437,Nathan,Morel,46,Femme,2025-04-08,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+272706,Adam,Bertrand,52,Homme,2025-03-23,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+371626,Arthur,Andre,40,Homme,2025-02-21,Bronze,Genève,Genève,Suisse,Organic Search,Tablet,Yes
+244304,Sophia,Dupont,42,Femme,2025-02-24,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,No
+403996,Sarah,Dubois,25,Homme,2025-12-22,Bronze,Nantes,Pays de la Loire,France,Email,Mobile,Yes
+604512,Leo,Mercier,18,Homme,2025-09-22,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Mobile,No
+922710,Gabriel,Garcia,41,Homme,2024-01-20,Silver,Genève,Genève,Suisse,Direct,Desktop,Yes
+323672,Jules,Legrand,53,Femme,2025-04-10,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Direct,Mobile,Yes
+772173,Alice,Andre,23,Femme,2024-11-01,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,No
+741821,Sophia,Legrand,30,Femme,2024-02-09,Gold,Bordeaux,Nouvelle-Aquitaine,France,Direct,Desktop,No
+372606,Lucas,Durand,34,Femme,2025-07-12,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+564546,Nora,Leroy,39,Homme,2024-03-07,Gold,Dakar,Dakar,Sénégal,Organic Search,Mobile,Yes
+270244,Tom,Thomas,52,Femme,2025-07-10,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+394629,Camille,Vincent,43,Homme,2025-02-21,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+286317,Ava,Mercier,34,Femme,2025-01-22,Silver,Paris,Île-de-France,France,Social Media,Desktop,No
+385226,Lucas,Durand,44,Femme,2024-08-29,Silver,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+674176,Lucas,Dubois,52,Homme,2025-02-04,Bronze,Genève,Genève,Suisse,Organic Search,Desktop,No
+119133,Sophia,Thomas,64,Homme,2024-12-20,Silver,Montréal,Québec,Canada,Organic Search,Mobile,Yes
+778915,Gabriel,Durand,29,Homme,2025-11-14,Silver,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+180406,Nora,Dupont,34,Homme,2024-04-06,Gold,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+928797,Camille,Richard,35,Femme,2024-01-14,Gold,Paris,Île-de-France,France,Organic Search,Desktop,No
+684762,Sarah,Garcia,45,Homme,2025-09-19,Silver,Strasbourg,Grand Est,France,Referral,Mobile,Yes
+354938,Lea,Garcia,62,Femme,2025-10-13,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+596169,Hugo,Vincent,18,Homme,2025-11-12,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+591897,Jules,Simon,24,Homme,2024-12-05,Silver,Toulouse,Occitanie,France,Direct,Desktop,Yes
+394504,Noah,Simon,27,Femme,2025-05-24,Bronze,Paris,Île-de-France,France,Organic Search,Tablet,Yes
+211308,Tom,Moreau,42,Homme,2025-11-08,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,No
+382136,Camille,Robert,36,Femme,2024-02-25,Gold,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+187464,Sophia,Laurent,36,Femme,2024-09-12,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,No
+798789,Eva,Bernard,26,Homme,2024-10-24,Bronze,Strasbourg,Grand Est,France,Organic Search,Mobile,No
+883739,Leo,Lefebvre,28,Homme,2024-04-18,Gold,Toulouse,Occitanie,France,Referral,Mobile,Yes
+796464,Hugo,Legrand,43,Homme,2024-09-03,Silver,Dakar,Dakar,Sénégal,Social Media,Mobile,Yes
+476136,Ines,Garcia,36,Femme,2024-11-08,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,Yes
+142076,Ines,Laurent,28,Femme,2025-05-07,Bronze,Strasbourg,Grand Est,France,Direct,Desktop,No
+858006,Ines,Andre,50,Femme,2025-03-10,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+385304,Manon,Dubois,42,Homme,2024-05-24,Silver,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,Yes
+662484,Sarah,Fournier,50,Homme,2024-03-05,Silver,Lille,Hauts-de-France,France,Organic Search,Tablet,Yes
+885594,Tom,Thomas,36,Femme,2024-02-26,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Mobile,No
+987448,Adam,Michel,42,Homme,2025-05-12,Bronze,Nantes,Pays de la Loire,France,Referral,Tablet,No
+821443,Nora,Bertrand,44,Femme,2025-06-25,Silver,Nantes,Pays de la Loire,France,Paid Search,Mobile,Yes
+342749,Lina,Dupont,21,Homme,2025-07-24,Bronze,Montréal,Québec,Canada,Social Media,Mobile,Yes
+967709,Sarah,Fournier,19,Homme,2025-07-26,Silver,Nantes,Pays de la Loire,France,Paid Search,Mobile,Yes
+443824,Adam,Michel,35,Femme,2024-03-24,Gold,Paris,Île-de-France,France,Social Media,Desktop,Yes
+499852,Olivia,Francois,39,Homme,2024-02-20,Silver,Paris,Île-de-France,France,Email,Mobile,Yes
+493312,Sami,Roux,32,Homme,2024-10-05,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Email,Mobile,Yes
+181771,Emma,Moreau,21,Femme,2024-07-07,Bronze,Toulouse,Occitanie,France,Direct,Mobile,Yes
+479084,Olivia,Dubois,41,Homme,2024-08-23,Bronze,Toulouse,Occitanie,France,Social Media,Desktop,Yes
+514149,Leo,Thomas,38,Femme,2025-07-23,Bronze,Paris,Île-de-France,France,Email,Desktop,Yes
+852948,Yanis,Morel,40,Femme,2025-12-13,Bronze,Toulouse,Occitanie,France,Email,Mobile,Yes
+512043,Leo,Bonnet,40,Femme,2024-07-29,Silver,Lille,Hauts-de-France,France,Referral,Desktop,Yes
+775778,Nora,Francois,21,Non précisé,2025-10-31,Bronze,Lille,Hauts-de-France,France,Direct,Desktop,No
+151321,Yanis,Dupont,29,Homme,2025-03-29,Bronze,Paris,Île-de-France,France,Direct,Mobile,No
+704010,Mia,Michel,33,Homme,2025-10-22,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+423616,Noah,Roux,62,Homme,2024-06-15,Bronze,Strasbourg,Grand Est,France,Organic Search,Mobile,No
+391183,Mia,Roux,36,Homme,2025-05-20,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,Yes
+411553,Emma,Dupont,18,Homme,2024-08-03,Bronze,Nantes,Pays de la Loire,France,Paid Search,Desktop,Yes
+865173,Ines,Lambert,30,Non précisé,2024-09-07,Silver,Strasbourg,Grand Est,France,Email,Mobile,Yes
+428817,Arthur,Lefebvre,42,Homme,2025-04-18,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Desktop,Yes
+766181,Noah,Laurent,39,Femme,2025-06-02,Bronze,Toulouse,Occitanie,France,Organic Search,Desktop,Yes
+391759,Mia,Martinez,31,Femme,2024-09-14,Silver,Montréal,Québec,Canada,Email,Mobile,Yes
+922923,Lea,Garcia,25,Homme,2025-05-26,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+277754,Chloe,Vincent,31,Femme,2025-06-02,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Mobile,Yes
+782891,Gabriel,Moreau,18,Femme,2024-07-09,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,No
+190935,Liam,Francois,18,Femme,2025-05-22,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+893028,Sarah,Moreau,58,Homme,2024-01-14,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+761231,Alice,Thomas,53,Homme,2025-08-01,Bronze,Nantes,Pays de la Loire,France,Email,Desktop,Yes
+415142,Sami,Robert,47,Femme,2025-07-09,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Mobile,Yes
+815011,Tom,Dupont,18,Homme,2024-11-22,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Desktop,Yes
+656035,Mia,David,22,Femme,2024-06-15,Bronze,Nantes,Pays de la Loire,France,Organic Search,Desktop,No
+839525,Emma,Dupont,35,Homme,2024-03-15,Silver,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+521348,Nathan,Francois,23,Femme,2025-09-27,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,Yes
+578740,Gabriel,Michel,29,Femme,2024-05-06,Gold,Paris,Île-de-France,France,Social Media,Desktop,Yes
+809807,Arthur,Roux,42,Homme,2025-01-23,Silver,Bordeaux,Nouvelle-Aquitaine,France,Direct,Mobile,No
+344218,Ava,Bernard,46,Femme,2024-12-02,Bronze,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+947567,Louis,Mercier,18,Homme,2025-01-27,Silver,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,No
+236070,Alice,Mercier,37,Femme,2025-04-09,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Tablet,Yes
+241563,Sami,Thomas,21,Femme,2024-09-07,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+614335,Gabriel,Garcia,55,Homme,2025-03-21,Bronze,Paris,Île-de-France,France,Email,Mobile,Yes
+527548,Eva,Dubois,30,Femme,2024-08-19,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+922143,Noah,Robert,58,Femme,2024-06-07,Bronze,Lille,Hauts-de-France,France,Referral,Desktop,No
+893534,Arthur,Bonnet,26,Femme,2025-11-13,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,Yes
+290261,Adam,Bertrand,34,Homme,2024-10-26,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+757665,Adam,Lambert,19,Femme,2024-11-04,Bronze,Lille,Hauts-de-France,France,Paid Search,Tablet,No
+974572,Lina,Fournier,31,Non précisé,2025-07-08,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Desktop,No
+577111,Lea,Robert,36,Homme,2024-05-08,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Referral,Desktop,No
+972391,Camille,Fournier,27,Femme,2024-11-06,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Email,Desktop,Yes
+596543,Manon,Leroy,44,Homme,2025-12-15,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,No
+523660,Ethan,Petit,24,Homme,2024-06-11,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,No
+535113,Ethan,Bernard,33,Homme,2025-07-26,Bronze,Paris,Île-de-France,France,Direct,Desktop,No
+633842,Alice,Legrand,45,Femme,2024-05-15,Gold,Genève,Genève,Suisse,Direct,Desktop,Yes
+961253,Nathan,Francois,22,Homme,2024-11-14,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Desktop,No
+913479,Leo,Fournier,36,Femme,2024-03-09,Bronze,Paris,Île-de-France,France,Referral,Mobile,Yes
+592148,Gabriel,Lambert,33,Femme,2025-11-24,Bronze,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+649226,Lina,Simon,30,Homme,2025-08-29,Bronze,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+471028,Adam,Moreau,46,Femme,2025-08-27,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,No
+791320,Nathan,Bernard,35,Femme,2024-11-12,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+367070,Alice,Bernard,48,Homme,2025-03-13,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+436859,Mia,Bertrand,54,Femme,2024-08-21,Silver,Toulouse,Occitanie,France,Organic Search,Mobile,No
+140503,Emma,Lambert,44,Femme,2025-09-30,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Desktop,No
+441490,Ethan,Richard,23,Femme,2024-03-19,Silver,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,Yes
+567831,Nora,Bonnet,24,Femme,2024-06-17,Silver,Montréal,Québec,Canada,Organic Search,Tablet,Yes
+858282,Jules,Mercier,65,Homme,2025-10-24,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+524996,Leo,Martin,28,Homme,2025-08-19,Bronze,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+350075,Ethan,Durand,34,Homme,2024-01-27,Silver,Strasbourg,Grand Est,France,Paid Search,Mobile,No
+760709,Mia,Martinez,18,Femme,2024-08-09,Bronze,Strasbourg,Grand Est,France,Email,Mobile,Yes
+302694,Leo,Moreau,51,Homme,2025-01-29,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Direct,Mobile,Yes
+574720,Arthur,Bonnet,36,Femme,2024-09-30,Silver,Bordeaux,Nouvelle-Aquitaine,France,Referral,Desktop,Yes
+446174,Liam,Laurent,40,Homme,2024-07-15,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,No
+949242,Camille,Bernard,18,Femme,2024-07-19,Bronze,Paris,Île-de-France,France,Referral,Mobile,No
+617166,Lea,Morel,50,Homme,2024-09-18,Bronze,Toulouse,Occitanie,France,Social Media,Tablet,Yes
+471120,Ava,Martinez,35,Homme,2025-06-29,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,No
+218256,Leo,Dubois,18,Homme,2025-11-01,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,Yes
+547441,Tom,Moreau,29,Femme,2024-02-27,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+179325,Mia,Morel,38,Homme,2025-10-24,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Tablet,Yes
+956285,Lina,Simon,36,Homme,2024-04-26,Gold,Paris,Île-de-France,France,Organic Search,Desktop,No
+716865,Louis,Petit,18,Femme,2024-12-27,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Mobile,No
+726493,Camille,Vincent,23,Femme,2024-08-19,Silver,Genève,Genève,Suisse,Organic Search,Desktop,No
+303261,Mia,Garcia,52,Femme,2025-08-14,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,Yes
+383490,Nathan,Vincent,23,Homme,2024-10-14,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Email,Mobile,No
+825650,Olivia,Francois,22,Femme,2025-03-23,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,No
+831002,Sophia,Legrand,38,Femme,2024-04-07,Silver,Nantes,Pays de la Loire,France,Organic Search,Desktop,Yes
+641029,Sophia,Vincent,35,Homme,2025-12-01,Bronze,Toulouse,Occitanie,France,Direct,Mobile,Yes
+588766,Liam,Moreau,35,Homme,2024-09-04,Bronze,Nantes,Pays de la Loire,France,Direct,Mobile,Yes
+254665,Leo,Martin,35,Femme,2025-02-06,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+643567,Nora,Richard,51,Homme,2024-11-09,Silver,Paris,Île-de-France,France,Referral,Mobile,Yes
+878684,Ines,Bernard,51,Femme,2025-07-14,Silver,Nantes,Pays de la Loire,France,Paid Search,Desktop,Yes
+504702,Lea,Garcia,18,Homme,2025-03-16,Bronze,Lille,Hauts-de-France,France,Referral,Mobile,Yes
+833343,Noah,Lefebvre,52,Homme,2024-11-11,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,Yes
+673962,Yanis,Richard,22,Femme,2024-10-03,Silver,Paris,Île-de-France,France,Social Media,Mobile,No
+982524,Eva,Martin,63,Femme,2025-02-22,Silver,Dakar,Dakar,Sénégal,Organic Search,Desktop,Yes
+721362,Noah,Leroy,32,Femme,2025-12-14,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,Yes
+668559,Ines,Thomas,37,Homme,2024-03-15,Gold,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+567233,Manon,Lefebvre,26,Homme,2024-12-29,Bronze,Toulouse,Occitanie,France,Direct,Mobile,No
+410199,Jules,Leroy,28,Femme,2025-09-03,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,Yes
+685594,Lea,Durand,28,Homme,2025-04-15,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,Yes
+681133,Leo,Mercier,49,Femme,2024-03-15,Silver,Montréal,Québec,Canada,Email,Mobile,Yes
+298767,Lucas,Andre,36,Homme,2025-11-07,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Desktop,Yes
+141736,Eva,Garcia,61,Homme,2025-05-20,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+230315,Mia,Lefebvre,54,Femme,2025-02-04,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+773617,Emma,Thomas,28,Femme,2024-01-19,Bronze,Montréal,Québec,Canada,Referral,Desktop,Yes
+560426,Ava,Bertrand,26,Femme,2025-04-22,Silver,Paris,Île-de-France,France,Social Media,Mobile,No
+887231,Olivia,Morel,23,Femme,2025-06-20,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+422131,Lea,Lefebvre,18,Femme,2024-09-29,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,No
+408882,Nathan,David,20,Homme,2024-10-04,Silver,Paris,Île-de-France,France,Referral,Mobile,No
+903418,Sophia,Moreau,51,Homme,2025-09-16,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+211051,Louis,Dupont,31,Femme,2025-11-16,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Direct,Mobile,Yes
+736049,Gabriel,Vincent,35,Homme,2024-04-01,Bronze,Dakar,Dakar,Sénégal,Organic Search,Desktop,Yes
+993374,Sarah,Durand,29,Homme,2025-07-06,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,No
+953303,Yanis,Francois,31,Homme,2024-10-18,Bronze,Nantes,Pays de la Loire,France,Organic Search,Desktop,No
+859731,Ines,Lefebvre,22,Homme,2024-03-20,Silver,Toulouse,Occitanie,France,Social Media,Desktop,No
+655738,Sophia,Lefebvre,18,Femme,2025-03-20,Silver,Lille,Hauts-de-France,France,Organic Search,Tablet,Yes
+451336,Nathan,Durand,40,Homme,2024-03-07,Gold,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+833845,Emma,Bertrand,18,Homme,2024-02-09,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Social Media,Desktop,No
+442621,Tom,Simon,43,Femme,2025-12-07,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+903991,Sami,Durand,31,Non précisé,2024-07-21,Silver,Paris,Île-de-France,France,Social Media,Mobile,Yes
+619125,Ethan,Francois,24,Femme,2025-11-29,Bronze,Nantes,Pays de la Loire,France,Referral,Mobile,No
+404084,Arthur,Roux,53,Homme,2025-12-02,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,Yes
+950376,Adam,Dupont,29,Femme,2025-04-12,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Mobile,No
+621846,Sarah,Garcia,38,Homme,2024-04-30,Gold,Bordeaux,Nouvelle-Aquitaine,France,Direct,Desktop,No
+857800,Ines,Garcia,30,Homme,2024-09-26,Bronze,Genève,Genève,Suisse,Organic Search,Mobile,Yes
+301223,Sophia,Lambert,18,Femme,2024-08-10,Gold,Paris,Île-de-France,France,Referral,Mobile,Yes
+334627,Liam,Morel,21,Homme,2024-10-19,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Email,Desktop,No
+916096,Tom,Leroy,40,Femme,2025-08-22,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+608725,Leo,Simon,26,Homme,2024-01-05,Gold,Paris,Île-de-France,France,Direct,Mobile,No
+784382,Liam,Laurent,34,Femme,2025-12-30,Bronze,Nantes,Pays de la Loire,France,Email,Tablet,Yes
+416349,Ethan,Dubois,47,Femme,2024-10-21,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+340616,Lina,Roux,30,Non précisé,2024-11-04,Bronze,Lille,Hauts-de-France,France,Organic Search,Mobile,No
+401624,Liam,Legrand,29,Femme,2024-07-22,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+419202,Hugo,Petit,29,Homme,2025-11-18,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+841579,Alice,Bernard,35,Femme,2025-02-01,Silver,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Desktop,Yes
+598002,Tom,Michel,30,Homme,2024-10-13,Bronze,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+601669,Gabriel,Dupont,48,Femme,2025-07-20,Silver,Toulouse,Occitanie,France,Organic Search,Desktop,No
+481750,Camille,Mercier,41,Femme,2025-11-03,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,No
+101827,Eva,David,32,Femme,2024-06-27,Silver,Lille,Hauts-de-France,France,Social Media,Mobile,Yes
+651343,Sophia,Martinez,33,Homme,2025-04-13,Silver,Paris,Île-de-France,France,Direct,Mobile,No
+718736,Camille,Francois,23,Homme,2025-06-14,Bronze,Genève,Genève,Suisse,Organic Search,Tablet,Yes
+288804,Eva,Bonnet,23,Homme,2025-12-21,Bronze,Toulouse,Occitanie,France,Email,Mobile,No
+821465,Lea,Simon,36,Homme,2025-09-14,Bronze,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+248716,Nathan,Bonnet,42,Homme,2025-11-24,Bronze,Nantes,Pays de la Loire,France,Direct,Mobile,No
+710163,Yanis,Simon,39,Femme,2025-11-29,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Direct,Desktop,Yes
+520885,Jules,Garcia,24,Homme,2025-02-25,Silver,Nantes,Pays de la Loire,France,Direct,Desktop,Yes
+866265,Ethan,Girard,52,Femme,2024-09-11,Silver,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+245306,Lucas,Martin,43,Homme,2025-11-13,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+249557,Ines,Thomas,25,Homme,2024-07-07,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+811213,Noah,Thomas,27,Homme,2024-11-06,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Desktop,Yes
+647837,Chloe,Thomas,29,Homme,2024-12-13,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+346256,Liam,Bernard,30,Femme,2025-01-27,Silver,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+256456,Jules,Simon,54,Homme,2025-07-12,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Desktop,Yes
+789726,Alice,Francois,31,Homme,2024-03-06,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,No
+524592,Hugo,Legrand,33,Homme,2025-06-21,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+681466,Ines,Vincent,34,Homme,2025-12-09,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,No
+395181,Mia,Lefebvre,42,Homme,2025-01-09,Bronze,Lille,Hauts-de-France,France,Paid Search,Desktop,Yes
+235645,Yanis,Bernard,18,Homme,2025-09-02,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+859369,Leo,Francois,53,Femme,2024-10-05,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,No
+475661,Emma,Bertrand,47,Femme,2024-06-19,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+818021,Ines,Andre,44,Homme,2024-03-19,Gold,Nantes,Pays de la Loire,France,Paid Search,Tablet,Yes
+393439,Alice,Thomas,37,Femme,2024-06-23,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Desktop,Yes
+925835,Gabriel,Lambert,24,Femme,2025-04-01,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Desktop,No
+439102,Jules,Robert,21,Homme,2024-01-30,Silver,Paris,Île-de-France,France,Referral,Desktop,Yes
+461503,Arthur,Durand,43,Non précisé,2024-09-09,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Direct,Desktop,Yes
+152133,Lina,Martinez,35,Femme,2024-09-15,Bronze,Strasbourg,Grand Est,France,Referral,Desktop,Yes
+265833,Sophia,Lambert,39,Homme,2025-03-30,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+832292,Mia,Francois,32,Homme,2025-12-12,Bronze,Nantes,Pays de la Loire,France,Referral,Mobile,No
+433949,Ines,Petit,29,Femme,2025-01-13,Bronze,Toulouse,Occitanie,France,Paid Search,Desktop,Yes
+474413,Olivia,Vincent,34,Femme,2024-06-10,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Tablet,No
+258199,Chloe,Michel,40,Femme,2024-11-07,Bronze,Genève,Genève,Suisse,Organic Search,Mobile,Yes
+457655,Noah,Lambert,30,Femme,2025-02-04,Bronze,Paris,Île-de-France,France,Paid Search,Mobile,Yes
+158237,Camille,Petit,54,Homme,2024-08-09,Silver,Lille,Hauts-de-France,France,Referral,Mobile,Yes
+352457,Adam,Laurent,25,Femme,2025-01-01,Silver,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+947580,Jules,Simon,34,Femme,2024-05-16,Bronze,Paris,Île-de-France,France,Paid Search,Desktop,Yes
+396603,Sami,Garcia,44,Femme,2024-05-23,Silver,Paris,Île-de-France,France,Referral,Mobile,No
+785908,Ava,Robert,41,Femme,2024-05-07,Bronze,Paris,Île-de-France,France,Direct,Desktop,Yes
+583874,Emma,Moreau,37,Femme,2025-03-15,Bronze,Toulouse,Occitanie,France,Email,Mobile,Yes
+535558,Manon,David,18,Femme,2024-11-01,Bronze,Genève,Genève,Suisse,Paid Search,Mobile,No
+743949,Noah,Morel,43,Homme,2024-07-06,Gold,Genève,Genève,Suisse,Referral,Mobile,No
+962186,Adam,Moreau,32,Homme,2025-08-13,Bronze,Toulouse,Occitanie,France,Direct,Mobile,Yes
+624376,Ava,Mercier,21,Homme,2024-09-07,Gold,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+445918,Nora,Robert,34,Homme,2024-07-30,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Desktop,Yes
+958830,Chloe,Martin,21,Homme,2025-01-25,Bronze,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+322264,Olivia,Michel,33,Femme,2024-05-11,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Desktop,Yes
+286370,Jules,Robert,40,Femme,2025-02-07,Bronze,Dakar,Dakar,Sénégal,Organic Search,Desktop,Yes
+178261,Ava,Robert,44,Femme,2025-01-21,Silver,Lyon,Auvergne-Rhône-Alpes,France,Referral,Mobile,Yes
+686999,Olivia,Martin,39,Non précisé,2024-06-19,Silver,Paris,Île-de-France,France,Direct,Mobile,Yes
+400954,Ethan,Bonnet,35,Femme,2024-06-28,Silver,Strasbourg,Grand Est,France,Email,Mobile,No
+463147,Ethan,Durand,31,Homme,2025-04-30,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,Yes
+686508,Gabriel,David,19,Femme,2024-04-01,Silver,Paris,Île-de-France,France,Organic Search,Desktop,Yes
+185948,Olivia,Petit,31,Femme,2024-01-23,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Referral,Desktop,Yes
+100536,Manon,Moreau,31,Homme,2025-08-20,Bronze,Toulouse,Occitanie,France,Referral,Tablet,Yes
+272038,Alice,Morel,44,Femme,2024-11-28,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,Yes
+611790,Nathan,Leroy,30,Homme,2024-05-01,Silver,Paris,Île-de-France,France,Organic Search,Mobile,No
+927734,Nathan,Petit,36,Homme,2024-01-11,Silver,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Tablet,No
+579391,Ethan,Lambert,28,Femme,2024-12-09,Bronze,Strasbourg,Grand Est,France,Paid Search,Desktop,Yes
+828794,Noah,Fournier,50,Femme,2025-11-14,Bronze,Paris,Île-de-France,France,Social Media,Mobile,Yes
+618822,Eva,Morel,41,Homme,2025-03-17,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Paid Search,Mobile,No
+197705,Ethan,Bonnet,23,Femme,2024-01-30,Silver,Strasbourg,Grand Est,France,Paid Search,Mobile,Yes
+729914,Leo,Francois,30,Homme,2025-11-09,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,No
+110649,Lucas,Lambert,46,Femme,2025-12-07,Bronze,Genève,Genève,Suisse,Direct,Desktop,Yes
+853843,Sarah,Roux,42,Homme,2024-05-12,Silver,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+980882,Emma,Thomas,48,Femme,2025-04-27,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Desktop,Yes
+686163,Alice,Martinez,18,Femme,2025-05-09,Bronze,Paris,Île-de-France,France,Email,Desktop,Yes
+536606,Yanis,Moreau,20,Femme,2024-09-18,Bronze,Nantes,Pays de la Loire,France,Organic Search,Mobile,No
+306964,Emma,Bertrand,25,Homme,2024-02-12,Silver,Toulouse,Occitanie,France,Paid Search,Mobile,Yes
+795593,Lea,David,39,Homme,2025-10-25,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Mobile,No
+114582,Sarah,Robert,42,Homme,2024-03-18,Silver,Paris,Île-de-France,France,Direct,Desktop,Yes
+751201,Yanis,Roux,34,Homme,2024-06-04,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+425550,Emma,Martin,35,Femme,2024-05-31,Bronze,Dakar,Dakar,Sénégal,Organic Search,Desktop,Yes
+737412,Emma,Simon,35,Homme,2024-10-20,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+769254,Sami,Francois,49,Homme,2024-04-02,Silver,Paris,Île-de-France,France,Referral,Tablet,No
+725173,Hugo,Moreau,18,Homme,2025-01-04,Bronze,Paris,Île-de-France,France,Social Media,Mobile,No
+449708,Emma,Thomas,26,Femme,2024-04-25,Silver,Marseille,Provence-Alpes-Côte d’Azur,France,Paid Search,Mobile,Yes
+458780,Tom,Vincent,42,Homme,2024-05-21,Bronze,Toulouse,Occitanie,France,Paid Search,Tablet,Yes
+222579,Adam,Bernard,42,Femme,2024-07-14,Silver,Lille,Hauts-de-France,France,Direct,Mobile,Yes
+881023,Gabriel,Roux,18,Homme,2024-08-03,Bronze,Paris,Île-de-France,France,Organic Search,Tablet,No
+746606,Mia,Robert,24,Non précisé,2025-06-29,Bronze,Paris,Île-de-France,France,Organic Search,Desktop,No
+217750,Manon,Morel,48,Homme,2025-02-05,Bronze,Paris,Île-de-France,France,Direct,Mobile,Yes
+445617,Leo,Francois,41,Homme,2025-01-04,Silver,Paris,Île-de-France,France,Direct,Tablet,No
+791789,Mia,Simon,38,Homme,2024-01-01,Silver,Lille,Hauts-de-France,France,Paid Search,Desktop,Yes
+394251,Sami,Francois,27,Homme,2025-07-24,Silver,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,Yes
+455270,Louis,Bonnet,37,Homme,2024-01-26,Gold,Lyon,Auvergne-Rhône-Alpes,France,Social Media,Mobile,No
+992612,Lina,Andre,32,Homme,2024-01-31,Gold,Marseille,Provence-Alpes-Côte d’Azur,France,Organic Search,Desktop,Yes
+860337,Lucas,Roux,48,Homme,2025-04-16,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+256405,Liam,Simon,39,Homme,2025-03-06,Silver,Toulouse,Occitanie,France,Referral,Mobile,Yes
+119634,Arthur,Richard,23,Femme,2024-03-19,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+869875,Jules,David,41,Femme,2024-11-21,Bronze,Nantes,Pays de la Loire,France,Direct,Mobile,Yes
+422271,Mia,David,18,Femme,2025-11-08,Bronze,Strasbourg,Grand Est,France,Referral,Mobile,Yes
+283269,Liam,David,44,Homme,2024-05-01,Gold,Genève,Genève,Suisse,Paid Search,Mobile,Yes
+467610,Louis,Michel,40,Non précisé,2025-01-31,Silver,Dakar,Dakar,Sénégal,Social Media,Desktop,No
+139224,Sarah,Laurent,18,Homme,2025-10-26,Bronze,Paris,Île-de-France,France,Direct,Desktop,No
+754716,Jules,Martin,29,Femme,2024-03-23,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Organic Search,Mobile,No
+776445,Ines,Robert,27,Homme,2025-07-04,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Referral,Desktop,No
+339209,Mia,Lambert,41,Homme,2025-08-07,Bronze,Montréal,Québec,Canada,Social Media,Mobile,Yes
+861112,Lina,Mercier,55,Femme,2024-12-14,Bronze,Toulouse,Occitanie,France,Social Media,Mobile,Yes
+287201,Lucas,Andre,65,Femme,2024-04-04,Bronze,Nantes,Pays de la Loire,France,Paid Search,Mobile,No
+136305,Noah,Moreau,40,Homme,2025-11-12,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+991383,Lea,Vincent,54,Femme,2025-05-17,Bronze,Dakar,Dakar,Sénégal,Organic Search,Mobile,Yes
+141122,Tom,Morel,44,Homme,2024-02-17,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Paid Search,Mobile,Yes
+832553,Nathan,Lambert,37,Femme,2024-10-05,Silver,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+896052,Ava,Bonnet,37,Homme,2025-05-19,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Organic Search,Mobile,Yes
+226741,Sarah,Martinez,39,Homme,2025-05-28,Bronze,Paris,Île-de-France,France,Paid Search,Tablet,Yes
+436058,Yanis,Martinez,39,Homme,2025-05-22,Bronze,Toulouse,Occitanie,France,Email,Mobile,Yes
+587971,Lea,Bernard,41,Homme,2025-01-08,Bronze,Lille,Hauts-de-France,France,Paid Search,Mobile,No
+545439,Leo,Michel,35,Femme,2024-10-02,Silver,Nantes,Pays de la Loire,France,Social Media,Mobile,Yes
+432782,Gabriel,Roux,47,Homme,2024-02-06,Gold,Nantes,Pays de la Loire,France,Paid Search,Desktop,No
+364459,Sophia,Legrand,20,Non précisé,2024-09-18,Bronze,Paris,Île-de-France,France,Organic Search,Mobile,Yes
+919390,Tom,Leroy,44,Femme,2024-08-29,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Referral,Mobile,Yes
+888237,Sami,Leroy,19,Homme,2024-08-30,Silver,Lyon,Auvergne-Rhône-Alpes,France,Direct,Mobile,Yes
+295582,Eva,Bertrand,25,Femme,2024-07-26,Silver,Paris,Île-de-France,France,Organic Search,Mobile,No
+193463,Mia,Robert,27,Homme,2025-09-05,Silver,Paris,Île-de-France,France,Referral,Mobile,No
+571316,Sophia,Richard,28,Femme,2025-09-15,Bronze,Toulouse,Occitanie,France,Organic Search,Mobile,No
+414596,Sami,Vincent,38,Homme,2025-07-01,Bronze,Bordeaux,Nouvelle-Aquitaine,France,Social Media,Desktop,Yes
+352256,Chloe,David,68,Homme,2024-05-09,Silver,Lyon,Auvergne-Rhône-Alpes,France,Email,Desktop,Yes
+645394,Eva,Roux,18,Femme,2024-03-31,Silver,Genève,Genève,Suisse,Organic Search,Desktop,No
+942724,Manon,Laurent,32,Homme,2025-09-25,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Social Media,Mobile,Yes
+991134,Alice,Bernard,43,Homme,2024-11-14,Bronze,Bruxelles,Bruxelles-Capitale,Belgique,Organic Search,Mobile,Yes
+660544,Emma,Francois,52,Homme,2025-10-15,Bronze,Strasbourg,Grand Est,France,Organic Search,Desktop,Yes
+809232,Mia,Garcia,50,Femme,2024-01-13,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
+253129,Gabriel,Robert,39,Femme,2025-02-26,Bronze,Genève,Genève,Suisse,Paid Search,Desktop,Yes
+151623,Yanis,Lambert,31,Femme,2024-03-28,Silver,Nantes,Pays de la Loire,France,Direct,Mobile,No
+468629,Ines,Richard,47,Femme,2025-09-24,Bronze,Marseille,Provence-Alpes-Côte d’Azur,France,Email,Tablet,Yes
+507747,Sarah,Lefebvre,32,Homme,2024-12-19,Bronze,Lyon,Auvergne-Rhône-Alpes,France,Paid Search,Mobile,Yes
