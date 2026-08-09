@@ -135,6 +135,14 @@ La clé `customer_id` permet de relier chaque commande au client correspondant.
 
 Plusieurs analyses métier ont été réalisées directement dans PostgreSQL.
 
+![Dashboard E-Commerce Power BI](assets/5.png)
+
+![Dashboard E-Commerce Power BI](assets/6.png)
+
+![Dashboard E-Commerce Power BI](assets/PgAdmin_1.png)
+
+
+
 ### KPI exécutifs
 
 ```sql
